@@ -5,6 +5,7 @@ project:
 website:
   title: "Wooyong Park"
   navbar:
+    logo: "photos/yonsei.jpg"
     left:
       - href: index.qmd
         text: Home
