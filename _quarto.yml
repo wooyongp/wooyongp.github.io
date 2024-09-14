@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Wooyong Park"
+  favicon: favicon/facvicon-16x16.png
   navbar:
-    logo: "photos/yonsei.jpg"
+    #logo: "photos/yonsei.jpg"
     left:
       - href: index.qmd
         text: Home

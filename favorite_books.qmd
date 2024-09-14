@@ -2,3 +2,4 @@
 title: "Favorite Books"
 ---
 
+Currently I'm reading ***The Personal MBA***, written by Josh Kaufman.
