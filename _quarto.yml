@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "wyeconomics.github.io"
+  title: "Wooyong Park"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - favorite_books.qmd
 
 format:
   html:

@@ -2,10 +2,10 @@
 title: "wyeconomics.github.io"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Undergraduate student at School of Economics, Yonsei University
 
-```{r}
-1 + 1
-```
+Institution Email:
+
+[161823@yonsei.ac.kr](161823@yonsei.ac.kr)
+
