@@ -16,10 +16,10 @@ Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)
 
   <!-- Right Column: Image -->
   <div style="flex: 50%; padding-left: 10px;">
-<figure>
-    <img src="photos/tokyo_Nov_23.jpg" alt="At Tokyo for JSC Korea-Japan Joint Economics Seminar. Nov 2023" width="100%"/>
-    <figcaption>At Tokyo for JSC Korea-Japan Joint Economics Seminar.<br>
-    Nov 2023</figcaption>
-</figure>
+<!-- <figure> -->
+<!--     <img src="photos/tokyo_Nov_23.jpg" alt="At Tokyo for JSC Korea-Japan Joint Economics Seminar. Nov 2023" width="100%"/> -->
+<!--     <figcaption>At Tokyo for JSC Korea-Japan Joint Economics Seminar.<br> -->
+<!--     Nov 2023</figcaption> -->
+<!-- </figure> -->
   </div>
 </div>
