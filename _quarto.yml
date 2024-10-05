@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - favorite_books.qmd
+      # - favorite_books.qmd
 
 format:
   html:

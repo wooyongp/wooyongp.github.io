@@ -1,19 +1,17 @@
 ---
-title: "Wooyong (Tommy) Park"
+title: "Volunteer and Community Service"
 ---
 
-
+<!-- This page is a demo. I am still currerntly working on this page. -->
 
 
 <div style="display: flex;">
   <div style="flex: 50%; padding-right: 10px;">
-Undergraduate student<br>
-School of Economics, Yonsei University<br>
-Personal Email(Main): [tommypark822@gmail.com](mailto:tommypark822@gmail.com)
-Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)
+
   
   </div>
 
+  <!-- Right Column: Image -->
   <div style="flex: 50%; padding-left: 10px;">
 <figure>
     <img src="photos/tokyo_Nov_23.jpg" alt="At Tokyo for JSC Korea-Japan Joint Economics Seminar. Nov 2023" width="100%"/>
