@@ -4,10 +4,10 @@ project:
 
 website:
   title: "Wooyong Park"
-  favicon: "favicon/favicon-32x32.png"
+  favicon: "photos/yonsei.jpg"
   navbar:
     logo: "photos/yonsei.jpg"
-    left:
+    right:
       - href: index.qmd
         text: Home
       # - favorite_books.qmd
