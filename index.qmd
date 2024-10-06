@@ -9,7 +9,7 @@ title: "Wooyong (Tommy) Park"
   <div style="flex: 50%; padding-right: 10px;">
 Undergraduate student<br>
 School of Economics, Yonsei University<br>
-Personal Email(Main): [tommypark822@gmail.com](mailto:tommypark822@gmail.com)
+Personal Email(Main): [tommypark822@gmail.com](mailto:tommypark822@gmail.com)<br>
 Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)
   
   </div>

@@ -11,6 +11,8 @@ website:
       - href: index.qmd
         text: Home
       # - favorite_books.qmd
+      - href: slides.qmd
+        text: Slides
 
 format:
   html:
