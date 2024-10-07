@@ -11,7 +11,7 @@ title: "Slides and Materials"
 I started out this study group in January(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every vacation between semesters, and pass on the materials and resources to future students as well. I gave presentations on topics such as ***clustering standard errors*** and ***staggered difference-in-differences***.
 <br>
 
-- [Cluster Robust Standard Errors](slides/Cluster_SE.html)
+- [Cluster Robust Standard Errors](ref/Cluster_SE.html)
 - [Staggered Difference-in-Differences I](https://www.dropbox.com/scl/fi/rrg7puid9k5btqk6cp7n4/sdid1_public.pdf?rlkey=pti5il9zfrzz0xkb4snbbfxa5&dl=0)
 - [Staggered Difference-in-Differences II(R)](https://www.dropbox.com/scl/fi/93khcx8lsoveeqd7mz2hc/sdid2-R-_public.pdf?rlkey=p2ja1mykqiah5u0paix7xipm0&dl=0)
 - [Staggered Difference-in-Differences II(Stata)](https://www.dropbox.com/scl/fi/b3eu1bkmudg3lurmike4p/sdid2-STATA-_public.pdf?rlkey=aa5pxtc2715i4dwfdq24bntiw&dl=0)

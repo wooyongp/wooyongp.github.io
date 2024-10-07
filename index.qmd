@@ -6,15 +6,19 @@ title: "Wooyong (Tommy) Park"
 
 
 <div style="display: flex;">
-  <div style="flex: 50%; padding-right: 10px;">
+  <div style="flex: 50%; padding-right: 5px;">
 Undergraduate student<br>
 School of Economics, Yonsei University<br>
 Personal Email(Main): [tommypark822@gmail.com](mailto:tommypark822@gmail.com)<br>
-Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)
+Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)<br>
+
+<button onclick="window.location.href='ref/cv.pdf';" style="padding: 10px 20px; font-size: 16px; background-color: #1a73e8; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    CV
+</button>
   
   </div>
 
-  <div style="flex: 50%; padding-left: 10px;">
+  <div style="flex: 50%; padding-left: 5px;">
 <figure>
     <img src="photos/tokyo_Nov_23.jpg" alt="At Tokyo for JSC Korea-Japan Joint Economics Seminar. Nov 2023" width="100%"/>
     <!-- <figcaption>At Tokyo for JSC Korea-Japan Joint Economics Seminar.<br> -->
