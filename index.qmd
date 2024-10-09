@@ -12,9 +12,12 @@ School of Economics, Yonsei University<br>
 Personal Email(Main): [tommypark822@gmail.com](mailto:tommypark822@gmail.com)<br>
 Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)<br>
 
-<button onclick="window.location.href='ref/cv.pdf';" style="padding: 10px 20px; font-size: 16px; background-color: #1a73e8; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    CV
-</button>
+<a href="ref/cv.pdf">
+    <button style="background-color: #1E90FF; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">
+        Download CV
+    </button>
+</a>
+
   
   </div>
 
