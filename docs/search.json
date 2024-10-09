@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Wooyong (Tommy) Park",
-    "section": "",
-    "text": "Undergraduate student School of Economics, Yonsei University Personal Email(Main): tommypark822@gmail.com Institution Email: 161823@yonsei.ac.kr\n\nCV"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "favorite_books.html",
     "href": "favorite_books.html",
     "title": "Favorite Books",
     "section": "",
     "text": "Currently I’m reading The Personal MBA, written by Josh Kaufman.\n4 of my favorite books are\n\nSiddhartha (by Herman Hesse)\nCrime and Punishment (by Fyodor Dostoevksy)\nMan’s Search for Meaning (by Victor Frankl)\nDemian (by Herman Hesse)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Wooyong (Tommy) Park",
+    "section": "",
+    "text": "Undergraduate student School of Economics, Yonsei University Personal Email(Main): tommypark822@gmail.com Institution Email: 161823@yonsei.ac.kr\n\nCV"
   },
   {
     "objectID": "slides.html",
@@ -28,52 +21,10 @@
     "text": "Applied Microeconomics Reading Group, Yonsei University\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\nSocial Media and Mental Health(Braghieri et al., 2022)\n\n\n\nApplied Economic Methods Study Group, Yonsei University\nI started out this study group in January(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every vacation between semesters, and pass on the materials and resources to future students as well. I gave presentations on topics such as clustering standard errors and staggered difference-in-differences. \n\nCluster Robust Standard Errors\nStaggered Difference-in-Differences I\nStaggered Difference-in-Differences II(R)\nStaggered Difference-in-Differences II(Stata) \n\n\n\nJunior Scholar Club, Yonsei University\n\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)\n\n\n\nElsewhere\n\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nData Summary: PSID(Panel Study of Income Dynamics)\nEconomics for Highschool Students(KOR)  → Here I visited my alma mater and introduced DiD and IV to highschool students."
   },
   {
-    "objectID": "slides.html#applied-microeconomics-reading-group-yonseifeb-2024-present",
-    "href": "slides.html#applied-microeconomics-reading-group-yonseifeb-2024-present",
-    "title": "Slides and Materials",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Social Media and Mental Health(Braghieri et al., 2022)  Introduction to Nationwide Panel Datasets"
-  },
-  {
-    "objectID": "slides.html#junior-scholar-club-yonseisep-2023-present",
-    "href": "slides.html#junior-scholar-club-yonseisep-2023-present",
-    "title": "Slides and Materials",
-    "section": "Junior Scholar Club, Yonsei(Sep 2023 ~ Present)",
-    "text": "Junior Scholar Club, Yonsei(Sep 2023 ~ Present)\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)"
-  },
-  {
-    "objectID": "slides.html#applied-economic-methods-study-group-yonseijan-2024-present",
-    "href": "slides.html#applied-economic-methods-study-group-yonseijan-2024-present",
-    "title": "Slides and Materials",
-    "section": "Applied Economic Methods Study Group, Yonsei(Jan 2024 ~ Present)",
-    "text": "Applied Economic Methods Study Group, Yonsei(Jan 2024 ~ Present)\nI started out this study group in January(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every vacation between semesters, and pass on the materials and resources to future students as well. I gave presentations on topics such as clustering standard errors and staggered difference-in-differences. \nCluster Robust Standard Errors  Staggered Difference-in-Differences I  Staggered Difference-in-Differences II(R)  Staggered Difference-in-Differences II(Stata)"
-  },
-  {
-    "objectID": "slides.html#elsewhere",
-    "href": "slides.html#elsewhere",
-    "title": "Slides and Materials",
-    "section": "Elsewhere",
-    "text": "Elsewhere\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)  Data Summary: PSID(Panel Study of Income Dynamics)  Economics for Highschool Students(KOR) → Here I visited my alma mater and introduced DiD and IV to highschool students."
-  },
-  {
-    "objectID": "slides.html#applied-microeconomics-reading-group-yonsei-university",
-    "href": "slides.html#applied-microeconomics-reading-group-yonsei-university",
-    "title": "Slides and Materials",
-    "section": "",
-    "text": "Introduction to Nationwide Panel Datasets  Social Media and Mental Health(Braghieri et al., 2022)"
-  },
-  {
-    "objectID": "slides.html#junior-scholar-club-yonsei-university",
-    "href": "slides.html#junior-scholar-club-yonsei-university",
-    "title": "Slides and Materials",
-    "section": "Junior Scholar Club, Yonsei University",
-    "text": "Junior Scholar Club, Yonsei University\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)"
-  },
-  {
-    "objectID": "slides.html#applied-economic-methods-study-group-yonsei-university",
-    "href": "slides.html#applied-economic-methods-study-group-yonsei-university",
-    "title": "Slides and Materials",
-    "section": "Applied Economic Methods Study Group, Yonsei University",
-    "text": "Applied Economic Methods Study Group, Yonsei University\nI started out this study group in January(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every vacation between semesters, and pass on the materials and resources to future students as well. I gave presentations on topics such as clustering standard errors and staggered difference-in-differences. \nCluster Robust Standard Errors  Staggered Difference-in-Differences I  Staggered Difference-in-Differences II(R)  Staggered Difference-in-Differences II(Stata)"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
