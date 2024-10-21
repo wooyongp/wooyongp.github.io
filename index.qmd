@@ -14,7 +14,7 @@ Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)<br>
 
 <a href="ref/cv_public/cv_public.pdf">
     <button style="background-color: #1E90FF; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">
-        Download CV
+        CV
     </button>
 </a>
 
