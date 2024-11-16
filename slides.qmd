@@ -8,7 +8,7 @@ title: "Slides and Materials"
 
 
 ### Applied Economic Methods Study Group, Yonsei University
-I started out this study group in January(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every vacation between semesters, and pass on the materials and resources to future students as well. I gave presentations on topics such as ***clustering standard errors*** and ***staggered difference-in-differences***.
+I started out this study group in January(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every vacation between semesters, and pass on the materials and resources to future students as well. I gave presentations on topics including ***clustering standard errors*** and ***staggered difference-in-differences***.
 <br>
 
 - [Cluster Robust Standard Errors](ref/Cluster_SE.html)
@@ -24,4 +24,3 @@ I started out this study group in January(2024) with students in the Economics d
 ### Elsewhere
 - [Data Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)](https://www.dropbox.com/scl/fi/sjom2vvamipv6i4009vvg/klips_wypark_public.pdf?rlkey=ztmymtq4jdu2ojlrb3dp1nfdq&dl=0)
 - [Data Summary: PSID(Panel Study of Income Dynamics)](https://www.dropbox.com/scl/fi/8ao0yx4twyes45kferww6/psid_wypark_public.pdf?rlkey=hyvq9li3hcyjycsgsujk1mzit&dl=0)
-- [Economics for Highschool Students(KOR)](https://www.dropbox.com/scl/fi/2qx9qujk6mgh6nb62cv1h/_-_-_-_.pdf?rlkey=pi4xf5rwol1k7dmt6mai5s68v&dl=0) <br> &rarr; Here I visited my alma mater and introduced DiD and IV to highschool students.
