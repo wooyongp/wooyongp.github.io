@@ -1,31 +1,40 @@
 ---
-title: "Wooyong (Tommy) Park"
+title: "Wooyong Park"
 ---
 
 
 
 
 <div style="display: flex;">
-  <div style="flex: 50%; padding-right: 5px;">
-Undergraduate student<br>
-School of Economics, Yonsei University<br>
-Personal Email(Main): [tommypark822@gmail.com](mailto:tommypark822@gmail.com)<br>
-Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)<br>
-
-<a href="ref/cv_public/cv_public.pdf">
-    <button style="background-color: #1E90FF; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">
-        CV
-    </button>
-</a>
-
   
-  </div>
 
-  <div style="flex: 50%; padding-left: 5px;">
+  <div style="flex: 50%; padding-right: 5px;">
 <figure>
     <img src="photos/tokyo_Nov_23.jpg" alt="At Tokyo for JSC Korea-Japan Joint Economics Seminar. Nov 2023" width="100%"/>
     <!-- <figcaption>At Tokyo for JSC Korea-Japan Joint Economics Seminar.<br> -->
     <!-- Nov 2023</figcaption> -->
 </figure>
+  </div>
+  
+  <div style="flex: 50%; padding-left: 5px;">
+<b style="font-size: 20px; ">Undergraduate student at the<br> School of Economics, Yonsei University</b>
+
+Personal Email(Main): [tommypark822@gmail.com](mailto:tommypark822@gmail.com)<br>
+Institution Email: [161823@yonsei.ac.kr](mailto:161823@yonsei.ac.kr)<br>
+
+<a href="ref/cv_public/cv_public.pdf" style="float: left; margin-right: 10px;">
+    <button style="background-color: #1E90FF; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">
+        CV
+    </button>
+</a>
+
+<a href="https://github.com/wyeconomics">
+    <button style="background-color: #1E90FF; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">
+        GitHub
+    </button>
+</a>
+<div style="clear: both;"></div>
+
+
   </div>
 </div>
