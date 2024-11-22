@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.12.14)  12 OCT 2024 16:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.12.14)  22 NOV 2024 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -638,42 +638,42 @@ vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
 n input line 178.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-33.
+44.
 
 (/Users/tommy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/om
 llmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-233.
+244.
 
 (/Users/tommy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/om
 slmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-233.
+244.
 
 (/Users/tommy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/om
 xlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 233.
+(Font)              <10> on input line 244.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 233.
+(Font)              <7> on input line 244.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 233.
+(Font)              <5> on input line 244.
  [1
 
 {/Users/tommy/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/p
 dftex.map}]
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 417--417
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 428--428
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
 
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 417--417
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 428--428
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
@@ -688,11 +688,11 @@ L3 programming layer <2023-12-08>
 Here is how much of TeX's memory you used:
  15226 strings out of 474491
  266311 string characters out of 5735368
- 1952470 words of memory out of 5000000
+ 1951470 words of memory out of 5000000
  37291 multiletter control sequences out of 15000+600000
  599331 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,389b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,389b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/tommy/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvi
 ps/lm/lm-rm.enc}{/Users/tommy/Library/Application Support/MiKTeX/texmfs/install
 /fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/tommy/Library/Application Support/MiK
@@ -714,7 +714,7 @@ ype1/public/lm/lmri10.pfb></Users/tommy/Library/Application Support/MiKTeX/texm
 fs/install/fonts/type1/public/lm/lmri9.pfb></Users/tommy/Library/Application Su
 pport/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Users/tommy/Libr
 ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy7.pfb>
-Output written on cv_public.pdf (2 pages, 231765 bytes).
+Output written on cv_public.pdf (2 pages, 232195 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
