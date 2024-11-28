@@ -4,7 +4,7 @@ title: "Slides and Materials"
 
 ### Applied Microeconomics Reading Group, Yonsei University
 - [Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)](https://www.dropbox.com/scl/fi/3jtoo2se7ug6o0io5rugj/nationwide-panel-data-sets_public.pdf?rlkey=jhjsl6cvljn8qif9021ubgd6m&dl=0)
-- [Social Media and Mental Health(Braghieri et al., 2022)](https://www.dropbox.com/scl/fi/jxzuo72gy9ccq333rmwol/Social_Media_and_Mental_Health_public.pdf?rlkey=4jy4i8t7on3jktzndifx2ovwt&dl=0)
+- Social Media and Mental Health(Braghieri et al., 2022)
 
 
 ### Applied Economic Methods Study Group, Yonsei University
@@ -19,7 +19,8 @@ I started out this study group in January(2024) with students in the Economics d
 
 
 ### Junior Scholar Club, Yonsei University
-- [Social Connectedness and Information Markets(Kranton and McAdams, 2024)](https://www.dropbox.com/scl/fi/yggwknxu3cevc58k9c22k/JSC_Weekly_24_1-_.pdf?rlkey=9ov5j2rzfpxbaizjxdc3cyy7k&dl=0)
+- Social Connectedness and Information Markets(Kranton and McAdams, 2024)
+- [Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects(de Chaisemartin and D'Haultfoeuille, 2020)](temp/jsc_dch.pdf)
 
 ### Elsewhere
 - [Data Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)](https://www.dropbox.com/scl/fi/sjom2vvamipv6i4009vvg/klips_wypark_public.pdf?rlkey=ztmymtq4jdu2ojlrb3dp1nfdq&dl=0)
