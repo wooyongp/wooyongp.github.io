@@ -2,26 +2,31 @@
 title: "Slides and Materials"
 ---
 
-### Applied Microeconomics Reading Group, Yonsei University
-- [Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)](https://www.dropbox.com/scl/fi/3jtoo2se7ug6o0io5rugj/nationwide-panel-data-sets_public.pdf?rlkey=jhjsl6cvljn8qif9021ubgd6m&dl=0)
-- Social Media and Mental Health(Braghieri et al., 2022)
+## Econometrics
 
-
-### Applied Economic Methods Study Group, Yonsei University
-I started out this study group in January(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every vacation between semesters, and pass on the materials and resources to future students as well. I gave presentations on topics including ***clustering standard errors*** and ***staggered difference-in-differences***.
-<br>
+### Applied Economic Methods Study Group(Yonsei University)
+I started out this study group in July(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every twice a year, passing on the materials and resources to future students as well. I gave presentations on topics including ***clustering standard errors*** and ***staggered difference-in-differences***.
 
 - [Cluster Robust Standard Errors](ref/Cluster_SE.html)
 - [Staggered Difference-in-Differences I](https://www.dropbox.com/scl/fi/rrg7puid9k5btqk6cp7n4/sdid1_public.pdf?rlkey=pti5il9zfrzz0xkb4snbbfxa5&dl=0)
 - [Staggered Difference-in-Differences II(R)](https://www.dropbox.com/scl/fi/qsgfkb5llvrw2ub25r5b5/sdid2-R-_public.pdf?rlkey=ks39bax5reml0qk9b8umtvhdo&dl=0)
 - [Staggered Difference-in-Differences II(Stata)](https://www.dropbox.com/scl/fi/w4r8h13olp1k6zql8kphl/sdid2-STATA-_public.pdf?rlkey=g8cv3iwbfsoud66qd1qin2quu&dl=0)
-<br>
+
+### Not presented
+- [Cox PH models for Survival Analysis](https://wyeconomics.github.io/Duration-and-Hazards/docs/Survival%20Analysis.html#/title-slide)
+
+## Data
+- [Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)](https://www.dropbox.com/scl/fi/3jtoo2se7ug6o0io5rugj/nationwide-panel-data-sets_public.pdf?rlkey=jhjsl6cvljn8qif9021ubgd6m&dl=0)
+  - presented in the Applied Microeconomics Reading Group, Yonsei University
+  
+- [Data Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)](https://www.dropbox.com/scl/fi/sjom2vvamipv6i4009vvg/klips_wypark_public.pdf?rlkey=ztmymtq4jdu2ojlrb3dp1nfdq&dl=0)
+- [Data Summary: PSID(Panel Study of Income Dynamics)](https://www.dropbox.com/scl/fi/8ao0yx4twyes45kferww6/psid_wypark_public.pdf?rlkey=hyvq9li3hcyjycsgsujk1mzit&dl=0)
 
 
-### Junior Scholar Club, Yonsei University
+
+
+### Papers presented in the Reading Group or other seminars
+- Social Media and Mental Health(Braghieri et al., 2022)
 - Social Connectedness and Information Markets(Kranton and McAdams, 2024)
 - [Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects(de Chaisemartin and D'Haultfoeuille, 2020)](temp/jsc_dch.pdf)
 
-### Elsewhere
-- [Data Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)](https://www.dropbox.com/scl/fi/sjom2vvamipv6i4009vvg/klips_wypark_public.pdf?rlkey=ztmymtq4jdu2ojlrb3dp1nfdq&dl=0)
-- [Data Summary: PSID(Panel Study of Income Dynamics)](https://www.dropbox.com/scl/fi/8ao0yx4twyes45kferww6/psid_wypark_public.pdf?rlkey=hyvq9li3hcyjycsgsujk1mzit&dl=0)

@@ -10,9 +10,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
       # - favorite_books.qmd
       - href: slides.qmd
-        text: Slides
+        text: Posts
 
 format:
   html:
