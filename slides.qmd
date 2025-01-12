@@ -2,6 +2,10 @@
 title: "Slides and Materials"
 ---
 
+## Coding
+
+- [Introduction to Git/Github for Econ Researchers](https://wyeconomics.github.io/git-intro/Slides.html#/title-slide)
+
 ## Econometrics
 
 ### Applied Economic Methods Study Group(Yonsei University)
