@@ -1,7 +1,7 @@
 ---
-title: "Wooyong Park"
+title: "Wooyong (Tommy) Park"
 about:
-  template: jolla
+  template: solana
   image: photos/tokyo_Nov_23.jpg
   links:
     - icon: file-text-fill
@@ -15,5 +15,5 @@ about:
       href: mailto:tommypark822@gmail.com
 ---
 
+I am an an undergraduate student at the School of Economics, Yonsei University. I am joining the Stanford GSB as a predoctoral RF this summer, and my research interest lies in International Trade, Applied Microeconomics, and Causal Inference. 
 
-<b style="font-size: 20px; ">Undergraduate student at<br>the School of Economics, Yonsei University</b>
