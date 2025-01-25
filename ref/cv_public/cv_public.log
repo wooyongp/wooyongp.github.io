@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.12.14)  16 DEC 2024 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.12.14)  25 JAN 2025 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -668,12 +668,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/Users/tommy/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/p
 dftex.map}]
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 428--428
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 430--430
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
 
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 428--428
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 430--430
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
@@ -687,7 +687,7 @@ L3 programming layer <2023-12-08>
  ) 
 Here is how much of TeX's memory you used:
  15226 strings out of 474491
- 266385 string characters out of 5735368
+ 266311 string characters out of 5735368
  1951470 words of memory out of 5000000
  37291 multiletter control sequences out of 15000+600000
  599331 words of font info for 59 fonts, out of 8000000 for 9000
@@ -714,9 +714,9 @@ ype1/public/lm/lmri10.pfb></Users/tommy/Library/Application Support/MiKTeX/texm
 fs/install/fonts/type1/public/lm/lmri9.pfb></Users/tommy/Library/Application Su
 pport/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Users/tommy/Libr
 ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy7.pfb>
-Output written on cv_public.pdf (2 pages, 232248 bytes).
+Output written on cv_public.pdf (2 pages, 232780 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
