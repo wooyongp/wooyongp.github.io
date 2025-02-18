@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.12.14)  18 FEB 2025 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.12.14)  18 FEB 2025 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -687,7 +687,7 @@ L3 programming layer <2023-12-08>
  ) 
 Here is how much of TeX's memory you used:
  15222 strings out of 474491
- 266267 string characters out of 5735368
+ 266341 string characters out of 5735368
  1951470 words of memory out of 5000000
  37289 multiletter control sequences out of 15000+600000
  593456 words of font info for 57 fonts, out of 8000000 for 9000
@@ -713,7 +713,7 @@ mr7.pfb></Users/tommy/Library/Application Support/MiKTeX/texmfs/install/fonts/t
 ype1/public/lm/lmri10.pfb></Users/tommy/Library/Application Support/MiKTeX/texm
 fs/install/fonts/type1/public/lm/lmri9.pfb></Users/tommy/Library/Application Su
 pport/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
-Output written on cv_public.pdf (2 pages, 227755 bytes).
+Output written on cv_public.pdf (2 pages, 228026 bytes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
