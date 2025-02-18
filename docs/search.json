@@ -21,18 +21,11 @@
     "text": "Introduction to Git/Github for Econ Researchers"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "slides.html#data-related",
-    "href": "slides.html#data-related",
+    "objectID": "slides.html#coding",
+    "href": "slides.html#coding",
     "title": "Slides and Materials",
-    "section": "Data Related",
-    "text": "Data Related\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\npresented in the Applied Microeconomics Reading Group, Yonsei University\n\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nData Summary: PSID(Panel Study of Income Dynamics)\n\n\nPapers presented in the Reading Group or other seminars\n\nSocial Media and Mental Health(Braghieri et al., 2022)\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)\nTwo-Way Fixed Effects Estimators with Heterogeneous Treatment Effects(de Chaisemartin and D’Haultfoeuille, 2020)"
+    "section": "",
+    "text": "Introduction to Git/Github for Econ Researchers"
   },
   {
     "objectID": "slides.html#econometrics",
@@ -49,10 +42,10 @@
     "text": "Data\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\npresented in the Applied Microeconomics Reading Group, Yonsei University\n\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nData Summary: PSID(Panel Study of Income Dynamics)\n\n\nPapers presented in the Reading Group or other seminars\n\nSocial Media and Mental Health(Braghieri et al., 2022)\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)\nTwo-Way Fixed Effects Estimators with Heterogeneous Treatment Effects(de Chaisemartin and D’Haultfoeuille, 2020)"
   },
   {
-    "objectID": "slides.html#coding",
-    "href": "slides.html#coding",
-    "title": "Slides and Materials",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Introduction to Git/Github for Econ Researchers"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

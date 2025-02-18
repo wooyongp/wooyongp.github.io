@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.12.14)  25 JAN 2025 18:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.12.14)  18 FEB 2025 16:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -668,12 +668,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/Users/tommy/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/p
 dftex.map}]
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 430--430
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 418--418
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
 
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 430--430
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 418--418
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
@@ -686,17 +686,17 @@ L3 programming layer <2023-12-08>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15226 strings out of 474491
- 266311 string characters out of 5735368
+ 15222 strings out of 474491
+ 266267 string characters out of 5735368
  1951470 words of memory out of 5000000
- 37291 multiletter control sequences out of 15000+600000
- 599331 words of font info for 59 fonts, out of 8000000 for 9000
+ 37289 multiletter control sequences out of 15000+600000
+ 593456 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,389b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,389b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/tommy/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvi
 ps/lm/lm-rm.enc}{/Users/tommy/Library/Application Support/MiKTeX/texmfs/install
-/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/tommy/Library/Application Support/MiK
-TeX/texmfs/install/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/Users/tommy/Libr
+/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/Users/tommy/Library/Application Su
+pport/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/tommy/Libr
 ary/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome5/fa5b
 rands0.enc}{/Users/tommy/Library/Application Support/MiKTeX/texmfs/install/font
 s/enc/dvips/fontawesome5/fa5free2.enc}</Users/tommy/Library/Application Support
@@ -712,11 +712,10 @@ tommy/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/l
 mr7.pfb></Users/tommy/Library/Application Support/MiKTeX/texmfs/install/fonts/t
 ype1/public/lm/lmri10.pfb></Users/tommy/Library/Application Support/MiKTeX/texm
 fs/install/fonts/type1/public/lm/lmri9.pfb></Users/tommy/Library/Application Su
-pport/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Users/tommy/Libr
-ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy7.pfb>
-Output written on cv_public.pdf (2 pages, 232780 bytes).
+pport/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
+Output written on cv_public.pdf (2 pages, 227755 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 121 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
