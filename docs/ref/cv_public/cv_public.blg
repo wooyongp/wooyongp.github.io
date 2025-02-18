@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'cv_public.blg'
+[27] biber-darwin:340> INFO - === Tue Feb 18, 2025, 18:05:04
+[107] Utils.pm:410> ERROR - Cannot find 'cv_public.bcf'!
+[107] Biber.pm:136> INFO - ERRORS: 1
