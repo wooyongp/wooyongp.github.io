@@ -15,7 +15,7 @@ about:
       href: mailto:tommypark822@gmail.com
 ---
 
-I am an an undergraduate student at the School of Economics, Yonsei University. 
+I am an undergraduate student in the School of Economics, Yonsei University. 
 
 I am joining the Stanford GSB as a predoctoral RF this summer, and my research interest lies in International Trade, Applied Microeconomics, and Causal Inference. 
 
