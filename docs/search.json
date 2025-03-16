@@ -47,5 +47,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Slides and Materials",
+    "section": "",
+    "text": "Introduction to Git/Github for Econ Researchers"
+  },
+  {
+    "objectID": "posts.html#coding",
+    "href": "posts.html#coding",
+    "title": "Slides and Materials",
+    "section": "",
+    "text": "Introduction to Git/Github for Econ Researchers"
+  },
+  {
+    "objectID": "posts.html#econometrics",
+    "href": "posts.html#econometrics",
+    "title": "Slides and Materials",
+    "section": "Econometrics",
+    "text": "Econometrics\n\nApplied Economic Methods Study Group(Yonsei University)\nI started out this study group in July(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every twice a year, passing on the materials and resources to future students as well. I gave presentations on topics including clustering standard errors and staggered difference-in-differences.\n\nCluster Robust Standard Errors\nStaggered Difference-in-Differences I\nStaggered Difference-in-Differences II(R)\nStaggered Difference-in-Differences II(Stata)\n\n\n\nNot presented\n\nCox PH models for Survival Analysis"
+  },
+  {
+    "objectID": "posts.html#data",
+    "href": "posts.html#data",
+    "title": "Slides and Materials",
+    "section": "Data",
+    "text": "Data\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\npresented in the Applied Microeconomics Reading Group, Yonsei University\n\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nData Summary: PSID(Panel Study of Income Dynamics)\n\n\nPapers presented in the Reading Group or other seminars\n\nSocial Media and Mental Health(Braghieri et al., 2022)\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)\nTwo-Way Fixed Effects Estimators with Heterogeneous Treatment Effects(de Chaisemartin and D’Haultfoeuille, 2020)"
   }
 ]
