@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-text-fill
       text: CV
-      href: ref/cv_public/cv_public.pdf
+      href: ref/cv_public.pdf
     - icon: github
       text: Github
       href: https://github.com/wyeconomics

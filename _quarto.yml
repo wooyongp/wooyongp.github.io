@@ -1,7 +1,8 @@
 project:
   type: website
-  output-dir: docs
-
+  output-dir: "docs"  
+  resources: ["ref/cv_public.pdf"]
+    
 website:
   title: "Wooyong Park"
   favicon: "photos/yonsei.jpg"
@@ -13,7 +14,7 @@ website:
       - href: research.qmd
         text: Research
       # - favorite_books.qmd
-      - href: slides.qmd
+      - href: posts.qmd
         text: Posts
 
 format:
