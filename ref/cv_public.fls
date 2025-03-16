@@ -1,8 +1,8 @@
-PWD /Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/ref
+PWD /Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/docs/ref/cv_public
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/ref/cv_public.tex
+INPUT /Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/docs/ref/cv_public/cv_public.tex
 OUTPUT cv_public.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -169,14 +169,14 @@ OUTPUT cv_public.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmbx10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
@@ -201,15 +201,15 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmri9.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr9.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT cv_public.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.7)  16 MAR 2025 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.7)  16 MAR 2025 18:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/ref/cv_public.tex"
-(/Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/ref/cv_public.tex
+**"/Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/docs/ref/cv_public/cv_public.tex"
+(/Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/docs/ref/cv_public/cv_public.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -468,41 +468,41 @@ LaTeX Font Info:    ... okay on input line 147.
 )
 Package hyperref Info: Link coloring ON on input line 147.
 \ANDbox=\box65
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 162.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 166.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 162.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 178.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 166.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 170.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 178.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 244.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 170.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 271.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 244.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 271.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 244.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 271.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 244.
+(Font)              <10> on input line 271.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 244.
+(Font)              <7> on input line 271.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 244.
+(Font)              <5> on input line 271.
  [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 418--418
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 393--393
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
 
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 418--418
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 393--393
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
@@ -516,17 +516,17 @@ L3 programming layer <2024-02-20>
  ) 
 Here is how much of TeX's memory you used:
  15175 strings out of 474116
- 259382 string characters out of 5743683
+ 259427 string characters out of 5743683
  1952187 words of memory out of 5000000
  37324 multiletter control sequences out of 15000+600000
  593456 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,476b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,513b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on cv_public.pdf (2 pages, 215002 bytes).
+Output written on cv_public.pdf (2 pages, 188624 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
+ 122 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
