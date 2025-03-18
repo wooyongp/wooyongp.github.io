@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.7)  16 MAR 2025 18:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.7)  18 MAR 2025 19:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/docs/ref/cv_public/cv_public.tex"
-(/Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/docs/ref/cv_public/cv_public.tex
+**"/Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/ref/cv_public.tex"
+(/Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/ref/cv_public.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -516,12 +516,12 @@ L3 programming layer <2024-02-20>
  ) 
 Here is how much of TeX's memory you used:
  15175 strings out of 474116
- 259427 string characters out of 5743683
+ 259382 string characters out of 5743683
  1952187 words of memory out of 5000000
  37324 multiletter control sequences out of 15000+600000
  593456 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,513b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,498b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
 Output written on cv_public.pdf (2 pages, 188624 bytes).
 PDF statistics:

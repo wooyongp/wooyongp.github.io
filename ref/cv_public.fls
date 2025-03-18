@@ -1,8 +1,8 @@
-PWD /Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/docs/ref/cv_public
+PWD /Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/ref
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/docs/ref/cv_public/cv_public.tex
+INPUT /Users/wooyong/Library/CloudStorage/Dropbox/05 Online Upload/wyeconomics.github.io/ref/cv_public.tex
 OUTPUT cv_public.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
