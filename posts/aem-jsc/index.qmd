@@ -17,4 +17,4 @@ I started out this study group in July(2024) with students in the Economics depa
 - [Introduction to Git/Github for Econ Researchers](https://wyeconomics.github.io/git-intro/Slides.html#/title-slide)
 
 
-Please visit our [website](https://sites.google.com/view/yonsei-applied-micro)!
+Please visit our [website](https://sites.google.com/view/aem-jsc)!
