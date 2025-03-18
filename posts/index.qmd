@@ -3,7 +3,7 @@ title: "Personal Blog"
 author: ""
 listing:
   contents: "."
-  sort: "date desc"
+  sort: "category asc"
   type: default
   categories: true
   sort-ui: false
