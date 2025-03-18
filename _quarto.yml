@@ -14,8 +14,9 @@ website:
       - href: research.qmd
         text: Research
       # - favorite_books.qmd
-      - href: posts.qmd
+      - href: posts/index.qmd
         text: Posts
+      
 
 format:
   html:

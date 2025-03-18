@@ -1,0 +1,13 @@
+---
+title: "Cox PH Models for Survival Analysis"
+description: "A summary slide on Survival Analysis and the use of Cox regression"
+# date: "2025-03-01"
+toc: false
+categories:
+  - Econometrics
+---
+
+
+I made these `.revealjs` slides for a meeting in a research with other professors, just for our particular research goal. Let me know through [email](mailto:tommypark822@gmail.com) if you spot any issues!
+
+- [Cox PH models for Survival Analysis](https://wyeconomics.github.io/Duration-and-Hazards/docs/Survival%20Analysis.html#/title-slide)

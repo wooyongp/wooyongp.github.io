@@ -1,0 +1,13 @@
+---
+title: "Cluster Robust Standard Errors"
+description: "An introductory documetation on Standard Error Clustering"
+# date: "2025-03-01"
+toc: false
+categories:
+  - Econometrics
+---
+
+
+I made these slides for the Applied Economic Methods study group at Yonsei University. Please let me know through [email](mailto:tommypark822@gmail.com) if you spot any troubles!
+
+- [Cluster Robust Standard Errors](../../ref/Cluster_SE.html)

@@ -1,0 +1,14 @@
+---
+title: "Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)"
+description: "Slides on nationwide panel datasets -  mainly about PSID(USA) and KLIPS(Korea)"
+# date: "2025-03-01"
+toc: false
+categories:
+  - Data
+---
+
+
+I made these slides for a presentation in a reading group at Yonsei University. Let me know through [email](mailto:tommypark822@gmail.com) if you spot any issues!
+
+
+- [Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)](https://www.dropbox.com/scl/fi/3jtoo2se7ug6o0io5rugj/nationwide-panel-data-sets_public.pdf?rlkey=jhjsl6cvljn8qif9021ubgd6m&dl=0)

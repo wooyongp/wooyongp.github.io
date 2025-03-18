@@ -1,0 +1,16 @@
+---
+title: "Introduction to Korean Labor Institute Panel Study(KLIPS)"
+description: "A summary slide on KLIPS(in Korean)"
+# date: "2025-03-01"
+toc: false
+categories:
+  - Data
+---
+
+
+I made these slides for a meeting in a research with other professors, just for our particular research goal. Let me know through [email](mailto:tommypark822@gmail.com) if you spot any issues!
+
+
+p.s. For english description of the data, please check the other slides related to [nationwide panel datasets](../cnef/index.html)
+
+- [Data Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)](https://www.dropbox.com/scl/fi/sjom2vvamipv6i4009vvg/klips_wypark_public.pdf?rlkey=ztmymtq4jdu2ojlrb3dp1nfdq&dl=0)

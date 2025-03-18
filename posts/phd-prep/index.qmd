@@ -1,0 +1,21 @@
+---
+title: "Useful Resources and Tips for getting prepared!"
+description: '"Know what you are doing. Love what you are doing. And believe in what you are doing." — Will Rogers'
+# date: "2025-03-01"
+toc: false
+categories:
+  - PhD Preparation
+---
+
+
+### Shoulder of Giants
+- [Professor Susan Athey's Professional Advice](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)
+- [Notes on Applying for a PhD in Economics by Professor Jesse Shapiro](https://scholar.harvard.edu/files/shapiro/files/phdnotes.pdf)
+- [Natalie Duncombe's Economics PhD Guides](https://natalieduncombe.com/resources/)
+
+
+### My mentor, my guru...
+- [Hyoungchul Kim's Tips for Students in Yonsei](https://hchulkim.github.io/posts/admission-econ/)
+
+### Foresight on the ex post life
+- [My Favorite YouTube Channel of Grad Life(not econ)](https://www.youtube.com/@LeeJennK)

@@ -1,0 +1,12 @@
+---
+title: "Introductory Git/GitHub"
+description: "Introductory Documentations for Git and GitHub, especialy for Econ Research"
+# date: "2025-03-01"
+toc: false
+categories:
+  - Coding
+---
+
+- [Introduction to Git/Github for Econ Researchers](https://wyeconomics.github.io/git-intro/Slides.html#/title-slide)
+
+- [Introduction to Git/Github for Econ Researchers](https://wyeconomics.github.io/git-intro/git_cheatsheet.html)
