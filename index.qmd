@@ -8,7 +8,7 @@ about:
       text: CV
       href: ref/cv_public.pdf
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/wyeconomics
     - icon: envelope-fill
       text: Email
@@ -17,5 +17,5 @@ about:
 
 I am an undergraduate student in the School of Economics, Yonsei University. 
 
-I am joining the Stanford GSB as a predoctoral research fellow this summer, and my research interest lies in Applied Microeconomics and Causal Inference. 
+I am joining the Stanford GSB as a predoctoral research fellow this summer, and my research interest lies in Causal Inference and Applied Microeconomics. 
 
