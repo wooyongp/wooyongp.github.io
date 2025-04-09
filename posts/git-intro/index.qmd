@@ -9,4 +9,4 @@ categories:
 
 - [Introduction to Git/Github for Econ Researchers](https://wyeconomics.github.io/git-intro/Slides.html#/title-slide)
 
-- [Introduction to Git/Github for Econ Researchers](https://wyeconomics.github.io/git-intro/git_cheatsheet.html)
+- [Git/Github Cheatsheets(occasionally being updated)](https://wyeconomics.github.io/git-intro/git_cheatsheet.html)
