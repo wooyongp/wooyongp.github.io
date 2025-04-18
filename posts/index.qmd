@@ -3,7 +3,7 @@ title: "Playground"
 author: ""
 listing:
   contents: "."
-  sort: category asc
+  sort: date desc
   type: default
   categories: true
   sort-ui: false
