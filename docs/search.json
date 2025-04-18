@@ -21,32 +21,25 @@
     "text": "Introduction to Git/Github for Econ Researchers\nGit/Github Cheatsheets(occasionally being updated)"
   },
   {
-    "objectID": "posts/aem-jsc/index.html",
-    "href": "posts/aem-jsc/index.html",
-    "title": "Applied Economic Methods Study Group(@ Yonsei University)",
+    "objectID": "posts/matrix-completion/index.html",
+    "href": "posts/matrix-completion/index.html",
+    "title": "Matrix Completion Methods for Causal Panel Data(Reading Group PT)",
     "section": "",
-    "text": "I started out this study group in July(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every twice a year, passing on the materials and resources to future students as well. I gave presentations on topics including clustering standard errors and staggered difference-in-differences."
+    "text": "Today, I presented a paper writen by Professors Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi on matrix completion methods with my friend Wonjin Seo at Yonsei University - Applied Micro RG. It was a great experience to share our thoughts and ideas on the paper. I hope you find these slides and MC helpful for your own research.\n\nSlides"
   },
   {
-    "objectID": "posts/aem-jsc/index.html#my-presentation-slides",
-    "href": "posts/aem-jsc/index.html#my-presentation-slides",
-    "title": "Applied Economic Methods Study Group(@ Yonsei University)",
-    "section": "My Presentation Slides",
-    "text": "My Presentation Slides\n\nCluster Robust Standard Errors\nStaggered Difference-in-Differences I\nStaggered Difference-in-Differences II(R)\nStaggered Difference-in-Differences II(Stata)\nIntroduction to Git/Github for Econ Researchers\n\nPlease visit our website!"
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Playground",
+    "section": "",
+    "text": "Useful Resources and Tips for getting prepared!\n\n\n\n\n\n\nPhD Preparation\n\n\n\n“Know what you are doing. Love what you are doing. And believe in what you are doing.” — Will Rogers\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCluster Robust Standard Errors\n\n\n\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Completion Methods for Causal Panel Data(Reading Group PT)\n\n\n\n\n\n\nCausal Inference\n\n\n\nSlides for Yonsei Applied Micro Reading Group on Athey et al. (2021)\n\n\n\n\n\nApr 18, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\n\n\n\nEconometrics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/psid/index.html",
-    "href": "posts/psid/index.html",
-    "title": "Introduction to Panel Study of Income Dynamics(PSID)",
+    "objectID": "posts/crse/index.html",
+    "href": "posts/crse/index.html",
+    "title": "Cluster Robust Standard Errors",
     "section": "",
-    "text": "I made these slides for a meeting in a research with other professors, just for our particular research goal. Let me know through email if you spot any issues!\n\nData Summary: PSID(Panel Study of Income Dynamics)"
-  },
-  {
-    "objectID": "posts/phd-prep/index.html",
-    "href": "posts/phd-prep/index.html",
-    "title": "Useful Resources and Tips for getting prepared!",
-    "section": "",
-    "text": "Experimenting these on myself, I’ve hardly ever been a quintessential complier.\n\nShoulder of Giants\n\nProfessor Susan Athey’s Professional Advice\nNotes on Applying for a PhD in Economics by Professor Jesse Shapiro\nNatalie Duncombe’s Economics PhD Guides\n\n\n\nMy mentor, my guru…\n\nHyoungchul Kim’s Tips for Students in Yonsei\n\n\n\nForesight on the ex post life\n\nMy Favorite YouTube Channel of Grad Life(not econ)"
+    "text": "I made these slides for the Applied Economic Methods study group at Yonsei University. Please let me know through email if you spot any troubles!\n\nCluster Robust Standard Errors"
   },
   {
     "objectID": "temp/posts.html",
@@ -77,18 +70,32 @@
     "text": "Data\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\npresented in the Applied Microeconomics Reading Group, Yonsei University\n\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nData Summary: PSID(Panel Study of Income Dynamics)\n\n\nPapers presented in the Reading Group or other seminars\n\nSocial Media and Mental Health(Braghieri et al., 2022)\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)\nTwo-Way Fixed Effects Estimators with Heterogeneous Treatment Effects(de Chaisemartin and D’Haultfoeuille, 2020)"
   },
   {
-    "objectID": "posts/crse/index.html",
-    "href": "posts/crse/index.html",
-    "title": "Cluster Robust Standard Errors",
+    "objectID": "posts/phd-prep/index.html",
+    "href": "posts/phd-prep/index.html",
+    "title": "Useful Resources and Tips for getting prepared!",
     "section": "",
-    "text": "I made these slides for the Applied Economic Methods study group at Yonsei University. Please let me know through email if you spot any troubles!\n\nCluster Robust Standard Errors"
+    "text": "Experimenting these on myself, I’ve hardly ever been a quintessential complier.\n\nShoulder of Giants\n\nProfessor Susan Athey’s Professional Advice\nNotes on Applying for a PhD in Economics by Professor Jesse Shapiro\nNatalie Duncombe’s Economics PhD Guides\n\n\n\nMy mentor, my guru…\n\nHyoungchul Kim’s Tips for Students in Yonsei\n\n\n\nForesight on the ex post life\n\nMy Favorite YouTube Channel of Grad Life(not econ)"
   },
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Playground",
+    "objectID": "posts/psid/index.html",
+    "href": "posts/psid/index.html",
+    "title": "Introduction to Panel Study of Income Dynamics(PSID)",
     "section": "",
-    "text": "Useful Resources and Tips for getting prepared!\n\n\n\n\n\n\nPhD Preparation\n\n\n\n“Know what you are doing. Love what you are doing. And believe in what you are doing.” — Will Rogers\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCluster Robust Standard Errors\n\n\n\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\n\n\n\nEconometrics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\nNo matching items"
+    "text": "I made these slides for a meeting in a research with other professors, just for our particular research goal. Let me know through email if you spot any issues!\n\nData Summary: PSID(Panel Study of Income Dynamics)"
+  },
+  {
+    "objectID": "posts/aem-jsc/index.html",
+    "href": "posts/aem-jsc/index.html",
+    "title": "Applied Economic Methods Study Group(@ Yonsei University)",
+    "section": "",
+    "text": "I started out this study group in July(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every twice a year, passing on the materials and resources to future students as well. I gave presentations on topics including clustering standard errors and staggered difference-in-differences."
+  },
+  {
+    "objectID": "posts/aem-jsc/index.html#my-presentation-slides",
+    "href": "posts/aem-jsc/index.html#my-presentation-slides",
+    "title": "Applied Economic Methods Study Group(@ Yonsei University)",
+    "section": "My Presentation Slides",
+    "text": "My Presentation Slides\n\nCluster Robust Standard Errors\nStaggered Difference-in-Differences I\nStaggered Difference-in-Differences II(R)\nStaggered Difference-in-Differences II(Stata)\nIntroduction to Git/Github for Econ Researchers\n\nPlease visit our website!"
   },
   {
     "objectID": "posts/coxph/index.html",
