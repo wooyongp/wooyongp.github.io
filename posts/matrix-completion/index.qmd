@@ -1,5 +1,5 @@
 ---
-title: "Matrix Completion Methods for Causal Panel Data(Reading Group PT)"
+title: "Matrix Completion Methods for Causal Panel Data Models(Reading Group PT)"
 description: "Slides for Yonsei Applied Micro Reading Group on Athey et al. (2021)"
 date: "2025-04-18"
 toc: false
