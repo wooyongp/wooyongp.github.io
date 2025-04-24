@@ -1,0 +1,15 @@
+---
+title: "Notes on Monte Carlo, Bootstrapping, Bayesian Statistics"
+description: "Personal studying notes for undergraduate Theoretical Statistics(1) midterm"
+date: "2025-04-24"
+toc: false
+categories:
+  - Statistics
+---
+  
+
+These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.
+
+These notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.
+
+- [Notes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics](MC-BS-Bayesian.pdf)

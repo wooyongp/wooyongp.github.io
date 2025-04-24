@@ -4,7 +4,7 @@ description: "A summary slide on Survival Analysis and the use of Cox regression
 # date: "2025-03-01"
 toc: false
 categories:
-  - Econometrics
+  - Statistics
 ---
 
 

@@ -117,5 +117,12 @@
     "title": "Wooyong (Tommy) Park",
     "section": "",
     "text": "I am an undergraduate student in the School of Economics, Yonsei University.\nI am joining the Stanford GSB as a predoctoral research fellow this summer, and my research interest lies in Causal Inference and Applied Microeconomics."
+  },
+  {
+    "objectID": "posts/mc-bayes/index.html",
+    "href": "posts/mc-bayes/index.html",
+    "title": "Notes on Monte Carlo, Bootstrapping, Bayesian Statistics",
+    "section": "",
+    "text": "These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.\nThese notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.\n\nNotes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics"
   }
 ]
