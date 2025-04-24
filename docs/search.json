@@ -32,14 +32,21 @@
     "href": "posts/index.html",
     "title": "Playground",
     "section": "",
-    "text": "Useful Resources and Tips for getting prepared!\n\n\n\n\n\n\nPhD Preparation\n\n\n\n“Know what you are doing. Love what you are doing. And believe in what you are doing.” — Will Rogers\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCluster Robust Standard Errors\n\n\n\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\n\n\n\nEconometrics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Completion Methods for Causal Panel Data Models(Reading Group PT)\n\n\n\n\n\n\nCausal Inference\n\n\n\nSlides for Yonsei Applied Micro Reading Group on Athey et al. (2021)\n\n\n\n\n\nApr 18, 2025\n\n\nWooyong Park\n\n\n\n\n\n\nNo matching items"
+    "text": "Useful Resources and Tips for getting prepared!\n\n\n\n\n\n\nPhD Preparation\n\n\n\n“Know what you are doing. Love what you are doing. And believe in what you are doing.” — Will Rogers\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCluster Robust Standard Errors\n\n\n\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\n\n\n\nStatistics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on Monte Carlo, Bootstrapping, Bayesian Statistics\n\n\n\n\n\n\nStatistics\n\n\n\nPersonal studying notes for undergraduate Theoretical Statistics(1) midterm\n\n\n\n\n\nApr 24, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Completion Methods for Causal Panel Data Models(Reading Group PT)\n\n\n\n\n\n\nCausal Inference\n\n\n\nSlides for Yonsei Applied Micro Reading Group on Athey et al. (2021)\n\n\n\n\n\nApr 18, 2025\n\n\nWooyong Park\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/crse/index.html",
-    "href": "posts/crse/index.html",
-    "title": "Cluster Robust Standard Errors",
+    "objectID": "posts/mc-bayes/index.html",
+    "href": "posts/mc-bayes/index.html",
+    "title": "Notes on Monte Carlo, Bootstrapping, Bayesian Statistics",
     "section": "",
-    "text": "I made these slides for the Applied Economic Methods study group at Yonsei University. Please let me know through email if you spot any troubles!\n\nCluster Robust Standard Errors"
+    "text": "These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.\nThese notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.\n\nNotes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics"
+  },
+  {
+    "objectID": "posts/phd-prep/index.html",
+    "href": "posts/phd-prep/index.html",
+    "title": "Useful Resources and Tips for getting prepared!",
+    "section": "",
+    "text": "Experimenting these on myself, I’ve hardly ever been a quintessential complier.\n\nShoulder of Giants\n\nProfessor Susan Athey’s Professional Advice\nNotes on Applying for a PhD in Economics by Professor Jesse Shapiro\nNatalie Duncombe’s Economics PhD Guides\n\n\n\nMy mentor, my guru…\n\nHyoungchul Kim’s Tips for Students in Yonsei\n\n\n\nForesight on the ex post life\n\nMy Favorite YouTube Channel of Grad Life(not econ)"
   },
   {
     "objectID": "temp/posts.html",
@@ -70,11 +77,11 @@
     "text": "Data\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\npresented in the Applied Microeconomics Reading Group, Yonsei University\n\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nData Summary: PSID(Panel Study of Income Dynamics)\n\n\nPapers presented in the Reading Group or other seminars\n\nSocial Media and Mental Health(Braghieri et al., 2022)\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)\nTwo-Way Fixed Effects Estimators with Heterogeneous Treatment Effects(de Chaisemartin and D’Haultfoeuille, 2020)"
   },
   {
-    "objectID": "posts/phd-prep/index.html",
-    "href": "posts/phd-prep/index.html",
-    "title": "Useful Resources and Tips for getting prepared!",
+    "objectID": "posts/crse/index.html",
+    "href": "posts/crse/index.html",
+    "title": "Cluster Robust Standard Errors",
     "section": "",
-    "text": "Experimenting these on myself, I’ve hardly ever been a quintessential complier.\n\nShoulder of Giants\n\nProfessor Susan Athey’s Professional Advice\nNotes on Applying for a PhD in Economics by Professor Jesse Shapiro\nNatalie Duncombe’s Economics PhD Guides\n\n\n\nMy mentor, my guru…\n\nHyoungchul Kim’s Tips for Students in Yonsei\n\n\n\nForesight on the ex post life\n\nMy Favorite YouTube Channel of Grad Life(not econ)"
+    "text": "I made these slides for the Applied Economic Methods study group at Yonsei University. Please let me know through email if you spot any troubles!\n\nCluster Robust Standard Errors"
   },
   {
     "objectID": "posts/psid/index.html",
@@ -117,12 +124,5 @@
     "title": "Wooyong (Tommy) Park",
     "section": "",
     "text": "I am an undergraduate student in the School of Economics, Yonsei University.\nI am joining the Stanford GSB as a predoctoral research fellow this summer, and my research interest lies in Causal Inference and Applied Microeconomics."
-  },
-  {
-    "objectID": "posts/mc-bayes/index.html",
-    "href": "posts/mc-bayes/index.html",
-    "title": "Notes on Monte Carlo, Bootstrapping, Bayesian Statistics",
-    "section": "",
-    "text": "These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.\nThese notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.\n\nNotes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics"
   }
 ]
