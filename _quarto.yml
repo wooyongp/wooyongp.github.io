@@ -5,7 +5,7 @@ project:
     
 website:
   title: "Wooyong Park"
-  favicon: "photos/yonsei.jpg"
+  favicon: "photos/yonsei.png"
   navbar:
     logo: "photos/yonsei.png"
     left:
