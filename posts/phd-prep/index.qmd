@@ -1,5 +1,5 @@
 ---
-title: "Useful Resources and Tips for getting prepared!"
+title: "Economics PhD Application Resources"
 description: '"Know what you are doing. Love what you are doing. And believe in what you are doing." — Will Rogers'
 # date: "2025-03-01"
 toc: false
@@ -7,7 +7,7 @@ categories:
   - PhD Preparation
 ---
 
-Experimenting these on myself, I've hardly ever been a quintessential complier.
+Personal Archive of Econ PhD related materials. Experimenting these on myself, I've hardly ever been a quintessential complier.
 
 ### Shoulder of Giants
 - [Professor Susan Athey's Professional Advice](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)

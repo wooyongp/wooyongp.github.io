@@ -32,7 +32,7 @@
     "href": "posts/index.html",
     "title": "Playground",
     "section": "",
-    "text": "Useful Resources and Tips for getting prepared!\n\n\n\n\n\n\nPhD Preparation\n\n\n\n“Know what you are doing. Love what you are doing. And believe in what you are doing.” — Will Rogers\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCluster Robust Standard Errors\n\n\n\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\n\n\n\nStatistics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on Monte Carlo, Bootstrapping, Bayesian Statistics\n\n\n\n\n\n\nStatistics\n\n\n\nPersonal studying notes for undergraduate Theoretical Statistics(1) midterm\n\n\n\n\n\nApr 24, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Completion Methods for Causal Panel Data Models(Reading Group PT)\n\n\n\n\n\n\nCausal Inference\n\n\n\nSlides for Yonsei Applied Micro Reading Group on Athey et al. (2021)\n\n\n\n\n\nApr 18, 2025\n\n\nWooyong Park\n\n\n\n\n\n\nNo matching items"
+    "text": "Economics PhD Application Resources\n\n\n\n\n\n\nPhD Preparation\n\n\n\n“Know what you are doing. Love what you are doing. And believe in what you are doing.” — Will Rogers\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCluster Robust Standard Errors\n\n\n\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\n\n\n\nStatistics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on Monte Carlo, Bootstrapping, Bayesian Statistics\n\n\n\n\n\n\nStatistics\n\n\n\nPersonal studying notes for undergraduate Theoretical Statistics(1) midterm\n\n\n\n\n\nApr 24, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Completion Methods for Causal Panel Data Models\n\n\n\n\n\n\nCausal Inference\n\n\n\nSlides for Yonsei Applied Micro Reading Group on Athey et al. (2021)\n\n\n\n\n\nApr 18, 2025\n\n\nWooyong Park\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/mc-bayes/index.html",
@@ -44,9 +44,9 @@
   {
     "objectID": "posts/phd-prep/index.html",
     "href": "posts/phd-prep/index.html",
-    "title": "Useful Resources and Tips for getting prepared!",
+    "title": "Economics PhD Application Resources",
     "section": "",
-    "text": "Experimenting these on myself, I’ve hardly ever been a quintessential complier.\n\nShoulder of Giants\n\nProfessor Susan Athey’s Professional Advice\nNotes on Applying for a PhD in Economics by Professor Jesse Shapiro\nNatalie Duncombe’s Economics PhD Guides\n\n\n\nMy mentor, my guru…\n\nHyoungchul Kim’s Tips for Students in Yonsei\n\n\n\nForesight on the ex post life\n\nMy Favorite YouTube Channel of Grad Life(not econ)"
+    "text": "Personal Archive of Econ PhD related materials. Experimenting these on myself, I’ve hardly ever been a quintessential complier.\n\nShoulder of Giants\n\nProfessor Susan Athey’s Professional Advice\nNotes on Applying for a PhD in Economics by Professor Jesse Shapiro\nNatalie Duncombe’s Economics PhD Guides\n\n\n\nMy mentor, my guru…\n\nHyoungchul Kim’s Tips for Students in Yonsei\n\n\n\nForesight on the ex post life\n\nMy Favorite YouTube Channel of Grad Life(not econ)"
   },
   {
     "objectID": "temp/posts.html",
@@ -124,5 +124,19 @@
     "title": "Wooyong (Tommy) Park",
     "section": "",
     "text": "I am an undergraduate student in the School of Economics, Yonsei University.\nI am joining the Stanford GSB as a predoctoral research fellow this summer, and my research interest lies in Causal Inference and Applied Microeconomics."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Evaluating the Impact of South Korea’s SME Support Policies Using the Economic Shock of Covid-19 with Seunghoon Lee\n\n\nAbstract\n\n\n."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Evaluating the Impact of South Korea’s SME Support Policies Using the Economic Shock of Covid-19 with Seunghoon Lee\n\n\nAbstract\n\n\n."
   }
 ]
