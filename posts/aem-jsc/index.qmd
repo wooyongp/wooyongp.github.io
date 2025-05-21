@@ -14,7 +14,7 @@ I started out this study group in July(2024) with students in the Economics depa
 - [Staggered Difference-in-Differences I](https://www.dropbox.com/scl/fi/rrg7puid9k5btqk6cp7n4/sdid1_public.pdf?rlkey=pti5il9zfrzz0xkb4snbbfxa5&dl=0)
 - [Staggered Difference-in-Differences II(R)](https://www.dropbox.com/scl/fi/qsgfkb5llvrw2ub25r5b5/sdid2-R-_public.pdf?rlkey=ks39bax5reml0qk9b8umtvhdo&dl=0)
 - [Staggered Difference-in-Differences II(Stata)](https://www.dropbox.com/scl/fi/w4r8h13olp1k6zql8kphl/sdid2-STATA-_public.pdf?rlkey=g8cv3iwbfsoud66qd1qin2quu&dl=0)
-- [Introduction to Git/Github for Econ Researchers](https://wyeconomics.github.io/git-intro/Slides.html#/title-slide)
+- [Introduction to Git/Github for Econ Researchers](https://wooyongp.github.io/git-intro/Slides.html#/title-slide)
 
 
 Please visit our [website](https://sites.google.com/view/aem-jsc)!

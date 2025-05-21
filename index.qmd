@@ -9,13 +9,29 @@ about:
       href: ref/cv_public.pdf
     - icon: github
       text: GitHub
-      href: https://github.com/wyeconomics
+      href: https://github.com/wooyongp
     - icon: envelope-fill
       text: Email
       href: mailto:tommypark822@gmail.com
 ---
 
-I am an undergraduate student in the School of Economics, Yonsei University. 
 
-I am joining the Stanford GSB as a predoctoral research fellow this summer, and my research interest lies in Causal Inference and Applied Microeconomics. 
+Welcome to my webpage!
 
+<p align="justify">
+I am an undergraduate student at Yonsei University and an incoming predoc at Stanford GSB.
+You can call me either *Wooyong* or *Tommy*.
+</p>
+
+<p align="justify">
+p.s. I have recently switched my github username from *wyeconomics* to *wooyongp*, so a lot of connections to my repos or GitHub pages might have become lost. If you have these issues, you can try redirecting to my new username or contact me via email if that does not work out.
+</p>
+
+### Fields of Interest
+- Applied Microeconomics(Spatial Econ)
+- Causal Inference
+- Machine Learning Applications in Economics
+
+### Education
+- B.A. in Economics and Applied Statistics
+  + Yonsei University, 2025(expected)
