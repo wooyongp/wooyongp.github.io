@@ -12,7 +12,7 @@ about:
       href: https://github.com/wooyongp
     - icon: envelope-fill
       text: Email
-      href: mailto:tommypark822@gmail.com
+      href: mailto:wooyongp@stanford.edu
 ---
 
 
