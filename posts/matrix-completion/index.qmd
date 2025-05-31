@@ -1,6 +1,6 @@
 ---
 title: "Matrix Completion Methods for Causal Panel Data Models"
-description: "Slides for Yonsei Applied Micro Reading Group on Athey et al. (2021)"
+description: "Paper Review: Slides on Athey et al. (2021)"
 date: "2025-04-18"
 toc: false
 categories:

@@ -1,0 +1,14 @@
+---
+title: "Getting Started with Visual Studio Code on mac OS"
+description: "Installation and Setup Guide for vscode in mac"
+date: "2025-05-21"
+toc: false
+categories:
+  - Coding
+---
+
+A lot of my friends at Yonsei have asked me how to install / set up VScode on their macs, especially for the purpose of rendering Latex in local PC rather than relying on Overleaf.
+
+I am not a professional in software, so please give me comments or additional tips if you have one:)
+
+- [Document Repo](https://github.com/wooyongp/vscode-guide/blob/master/setting-up.pdf)
