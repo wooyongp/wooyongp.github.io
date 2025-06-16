@@ -19,7 +19,7 @@ about:
 Welcome to my webpage!
 
 <p align="justify">
-I am an undergraduate student at Yonsei University and an incoming predoc at Stanford GSB.
+I am an incoming predoctoral research fellow at Stanford GSB.
 You can call me either *Wooyong* or *Tommy*.
 </p>
 
@@ -28,7 +28,7 @@ p.s. I have recently switched my github username from *wyeconomics* to *wooyongp
 </p>
 
 ### Fields of Interest
-- Applied Microeconomics(Spatial Econ)
+- Applied Microeconomics
 - Causal Inference
 - Machine Learning Applications in Economics
 
