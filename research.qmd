@@ -4,8 +4,7 @@ title: "Research"
 
 ## Working Papers
 
-**Evaluating the Impact of South Korea's SME Support Policies Using the Economic Shock of Covid-19** with [Seunghoon Lee](https://sites.google.com/view/seunghoon/home)
-
+* Evaluating the Impact of South Korea's SME Support Policies Using the Economic Shock of Covid-19 with [Seunghoon Lee](https://sites.google.com/view/seunghoon/home) (submitted) [[Draft]](https://drive.google.com/file/d/1MhaOfdwhEJVDy_jLx78lyeQLySR1LVoV/view?usp=sharing)
 <details>
   <summary>Abstract</summary>
 <p>This study evaluates the impact of South Korea’s small and medium enterprise
@@ -23,3 +22,6 @@ with higher employment, revenue, and firm survival. We also examine complementar
 and substitutability among support policies, finding significant interactions for certain
 combinations.</p>
 </details>
+
+
+* Dutch Disease or Dutch Blessing? Resource Booms and Educational Decisions (solo-authored) (Draft available soon)
