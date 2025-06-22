@@ -201,7 +201,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/rm-lmri9.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/rm-lmr9.tfm
 INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -210,6 +209,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.e
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT cv_public.aux
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb
