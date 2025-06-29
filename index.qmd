@@ -19,12 +19,14 @@ about:
 Welcome to my webpage!
 
 <p align="justify">
-I am an incoming predoctoral research fellow at Stanford GSB.
-You can call me either *Wooyong* or *Tommy*.
+I am a predoctoral research fellow at Stanford GSB.
+You can call me either *Wooyong* or *Tommy*. 
+
+Usual disclaimer applies: all posts here represent my own opinions and do not reflect the views of any of my past or present affiliations.
 </p>
 
 <p align="justify">
-p.s. I have recently switched my github username from *wyeconomics* to *wooyongp*, so a lot of connections to my repos or GitHub pages might have become lost. If you have these issues, you can try redirecting to my new username or contact me via email if that does not work out.
+p.s. I have recently switched my github username from *wyeconomics* to *wooyongp*, so a lot of connections to my repos or GitHub pages might have become lost. If you have these issues, you can try redirecting to my new username.
 </p>
 
 ### Fields of Interest
