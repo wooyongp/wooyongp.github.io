@@ -1,7 +1,7 @@
 ---
 title: "Wooyong Park"
 about:
-  template: trestles
+  template: broadside
   image: photos/tokyo_Nov_23.jpg
   links:
     - icon: file-text-fill
@@ -20,6 +20,7 @@ Welcome to my webpage!
 
 <p align="justify">
 I am a predoctoral research fellow at Stanford GSB.
+I am interested in applied microeconomics, causal inference, and machine learning applications in economics.
 You can call me either *Wooyong* or *Tommy*. 
 
 Usual disclaimer applies: all posts here represent my own opinions and do not reflect the views of any of my past or present affiliations.
@@ -29,10 +30,8 @@ Usual disclaimer applies: all posts here represent my own opinions and do not re
 p.s. I have recently switched my github username from *wyeconomics* to *wooyongp*, so a lot of connections to my repos or GitHub pages might have become lost. If you have these issues, you can try redirecting to my new username.
 </p>
 
-### Fields of Interest
-- Applied Microeconomics
-- Causal Inference
-- Machine Learning Applications in Economics
+<br>
+
 
 ### Education
 - B.A. in Economics and Applied Statistics
