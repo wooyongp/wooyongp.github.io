@@ -22,7 +22,9 @@ Welcome to my webpage!
 I am a predoctoral research fellow at Stanford GSB.
 I am interested in applied microeconomics, causal inference, and machine learning applications in economics.
 You can call me either *Wooyong* or *Tommy*. 
+</p>
 
+<p align="justify">
 Usual disclaimer applies: all posts here represent my own opinions and do not reflect the views of any of my past or present affiliations.
 </p>
 
