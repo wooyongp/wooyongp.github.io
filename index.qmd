@@ -2,7 +2,7 @@
 title: "Wooyong Park"
 about:
   template: broadside
-  image: photos/tokyo_Nov_23.jpg
+  image: photos/gsb-headshot2.jpg
   links:
     - icon: file-text-fill
       text: CV
