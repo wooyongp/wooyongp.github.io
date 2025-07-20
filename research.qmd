@@ -7,17 +7,14 @@ title: "Research"
 * Evaluating the Impact of South Korea's SME Support Policies Using the Economic Shock of Covid-19 with [Seunghoon Lee](https://sites.google.com/view/seunghoon/home) (submitted) [[Draft]](https://drive.google.com/file/d/1MhaOfdwhEJVDy_jLx78lyeQLySR1LVoV/view?usp=sharing)
 <details>
   <summary>Abstract</summary>
-<p>This study evaluates the impact of South Korea’s small and medium enterprise
+<p align="justify">This study evaluates the impact of South Korea’s small and medium enterprise
 (SME) support policies on firm survival and performance by leveraging the exogenous
-shock of the COVID-19 pandemic. Using administrative data from the SMEs Inte-
-grated Management System (SIMS), we analyze the effectiveness of various SME sup-
-port programs, including technology, human resources, export, domestic sales, startup,
+shock of the COVID-19 pandemic. Using administrative data from the SMEs Integrated Management System (SIMS), we analyze the effectiveness of various SME support programs, including technology, human resources, export, domestic sales, startup,
 and management support. To address endogeneity, we exploit the natural experiment
 created by COVID-19; to mitigate selection bias, we restrict the sample to firms that
 received financial support in 2019 and examine how the timing of support (across
 2019 quarters) affects outcomes. If firms receiving support closer to the pandemic show
-greater improvements, this suggests a policy effect rather than selection bias. Our re-
-sults indicate that technology and domestic sales support are significantly associated
+greater improvements, this suggests a policy effect rather than selection bias. Our results indicate that technology and domestic sales support are significantly associated
 with higher employment, revenue, and firm survival. We also examine complementarity
 and substitutability among support policies, finding significant interactions for certain
 combinations.</p>
