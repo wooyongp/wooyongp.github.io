@@ -1,6 +1,6 @@
 ---
 title: "Economics PhD Application Resources"
-description: '"Know what you are doing. Love what you are doing. And believe in what you are doing." — Will Rogers'
+description: 'Personal Archive of Econ PhD related materials.'
 # date: "2025-03-01"
 toc: false
 categories:
