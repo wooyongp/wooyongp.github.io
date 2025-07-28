@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 JUL 2025 17:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  28 JUL 2025 15:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -476,45 +476,45 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on 
  (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 170.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 310.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 303.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 310.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 303.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 310.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 303.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 310.
+(Font)              <10> on input line 303.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 310.
+(Font)              <7> on input line 303.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 310.
+(Font)              <5> on input line 303.
 
 
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Overfull \hbox (5.9916pt too wide) in paragraph at lines 367--369
+Overfull \hbox (5.9916pt too wide) in paragraph at lines 360--362
 []\OT1/lmr/m/n/10 Presented on the fol-low-ing top-ics: [][]``Clus-ter Ro-bust Stan-dard Er-rors [][][]", [][]``Stag-gered Differences-in-Differences"
  []
 
 
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 434--434
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 427--427
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
 
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 434--434
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 427--427
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--437
+Underfull \hbox (badness 10000) in paragraph at lines 427--430
 
  []
 
@@ -539,7 +539,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,10n,79p,499b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on cv_public.pdf (3 pages, 199831 bytes).
+Output written on cv_public.pdf (3 pages, 200531 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
