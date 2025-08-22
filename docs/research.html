@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.30">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -157,7 +186,15 @@ This study evaluates the impact of South Korea’s small and medium enterprise (
 </ul>
 <p><br></p>
 <ul>
-<li>Dutch Disease or Dutch Blessing? Resource Booms and Educational Decisions (solo-authored) (Draft available soon)</li>
+<li>Dutch Disease or Dutch Blessing? Resource Booms and Educational Decisions (solo-authored) (Draft available soon)
+<details>
+<summary>
+Abstract
+</summary>
+<p align="justify">
+This study investigates the impact of the shale gas boom on regional income and education. As opposed to the common fear of the Dutch Disease that resource booms extract resources from other sectors and deter education investments and related research literature that supports this view, we find that the shale gas boom had a positive impact on overall well-being in the subject regions, particularly on lower income households. Based on a staggered difference-in-differences framework, we find that the shale gas boom has led to an approximately 4.8%p increase in personal income and 4.8%p increase in the college enrollment rate in the households of first quantile income in shale gas boom regions after three years of exposure to shale gas boom. We also employ machine learning methods(XBART, causal forests, and matrix completion) to identify the heterogeneous effects of the shale gas boom on education and income in a data-driven manner and to cope with potential misspecification in the difference-in-differences framework. Our results show that the shale gas boom had a positive impact on education and income for lower income households, but not for higher income households. These results buttress our argument that the shale gas boom did not lead to the Dutch Disease in terms of education; rather, it alleviated social<span class="math inline">\(\cdot\)</span>economical inequality and further replenished the college education opportunities for lower income households.
+</p>
+</details></li>
 </ul>
 
 
