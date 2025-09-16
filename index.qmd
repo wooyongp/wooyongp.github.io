@@ -19,8 +19,8 @@ about:
 Welcome to my webpage!
 
 <p align="justify">
-I am a predoctoral research fellow at Stanford GSB.
-I am interested in applied microeconomics, causal inference, and machine learning applications in economics.
+I am a predoctoral research fellow at [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil), Stanford GSB.
+I am interested in studying applied microeconomics, causal inference, and machine learning applications in economics.
 You can call me either *Wooyong* or *Tommy*. 
 </p>
 
