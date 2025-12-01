@@ -1,13 +1,11 @@
 ---
-title: "Matrix Completion Methods for Causal Panel Data Models"
-description: "Paper Review: Slides on Athey et al. (2021)"
-date: "2025-04-18"
+title: "Calibration Plots"
+description: "A tutorial on calibration plots for prediction performance evaluation"
+date: "2025-11-30"
 toc: false
 categories:
-  - Causal Inference
+  - Machine Learning
 ---
 
-Today, I presented a paper written by Professors Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi on matrix completion methods with my friend Wonjin Seo at Yonsei University - Applied Micro reading group. It was a great experience to share our thoughts and ideas on the paper. I hope you find these slides and MC helpful for your own research.
-
-- [Slides](https://www.dropbox.com/scl/fi/cyb2yoe9dk8hv39itjzna/matrix-completion-appliedRG.pdf?rlkey=lwj0gid69dvzqht6ajl9x5zy7&dl=0)
+- [Tutorial](https://wooyongp.github.io/calibration-plots/index.html)
 

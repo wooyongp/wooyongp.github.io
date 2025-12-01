@@ -23,9 +23,9 @@
   {
     "objectID": "posts/matrix-completion/index.html",
     "href": "posts/matrix-completion/index.html",
-    "title": "Matrix Completion Methods for Causal Panel Data Models",
+    "title": "Calibration Plots",
     "section": "",
-    "text": "Today, I presented a paper written by Professors Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi on matrix completion methods with my friend Wonjin Seo at Yonsei University - Applied Micro reading group. It was a great experience to share our thoughts and ideas on the paper. I hope you find these slides and MC helpful for your own research.\n\nSlides"
+    "text": "Tutorial"
   },
   {
     "objectID": "posts/index.html",
@@ -159,5 +159,12 @@
     "title": "Recursive Partitioning for Heterogeneous Causal Effects",
     "section": "",
     "text": "Today, I presented a paper written by Professors Susan Athey abd Guido Imbens on causal trees and honest algorithm with my friends Joonwoo Shin, Jeongwoo Yang, and Minseo Seok at Yonsei University - Junior Scholar Club. It was a great experience to share our thoughts and ideas on the paper. I hope you find these slides and causal tree helpful for your own research.\n\nSlides"
+  },
+  {
+    "objectID": "posts/calibration-plots/index.html",
+    "href": "posts/calibration-plots/index.html",
+    "title": "Matrix Completion Methods for Causal Panel Data Models",
+    "section": "",
+    "text": "Today, I presented a paper written by Professors Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi on matrix completion methods with my friend Wonjin Seo at Yonsei University - Applied Micro reading group. It was a great experience to share our thoughts and ideas on the paper. I hope you find these slides and MC helpful for your own research.\n\nSlides"
   }
 ]
