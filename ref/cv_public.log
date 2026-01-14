@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  28 JUL 2025 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  14 JAN 2026 09:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/wooyongp/Library/CloudStorage/Dropbox/05 Online Upload/wooyongp.github.io/ref/cv_public.tex"
-(/Users/wooyongp/Library/CloudStorage/Dropbox/05 Online Upload/wooyongp.github.io/ref/cv_public.tex
+**/Users/wooyongp/Library/CloudStorage/Dropbox/05-Online_Upload/wooyongp.github.io/ref/cv_public.tex
+(/Users/wooyongp/Library/CloudStorage/Dropbox/05-Online_Upload/wooyongp.github.io/ref/cv_public.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -504,17 +504,17 @@ Overfull \hbox (5.9916pt too wide) in paragraph at lines 360--362
  []
 
 
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 427--427
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 428--428
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
 
-Overfull \hbox (2.57524pt too wide) in paragraph at lines 427--427
+Overfull \hbox (2.57524pt too wide) in paragraph at lines 428--428
  []|\OT1/lmr/bx/n/10 Grade| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--430
+Underfull \hbox (badness 10000) in paragraph at lines 428--432
 
  []
 
@@ -532,14 +532,14 @@ L3 programming layer <2025-01-18>
  ) 
 Here is how much of TeX's memory you used:
  15318 strings out of 473190
- 261878 string characters out of 5715801
+ 261876 string characters out of 5715801
  683940 words of memory out of 5000000
  38357 multiletter control sequences out of 15000+600000
  594224 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,499b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,497b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on cv_public.pdf (3 pages, 200531 bytes).
+Output written on cv_public.pdf (3 pages, 200617 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
