@@ -10,10 +10,11 @@
       "/posts/git-intro/index.html",
       "/posts/cnef/index.html",
       "/posts/klips/index.html",
+      "/posts/calibration-plots/index.html",
+      "/posts/matrix-completion/index.html",
       "/posts/causal-tree/index.html",
       "/posts/vscode-guide/index.html",
-      "/posts/mc-bayes/index.html",
-      "/posts/matrix-completion/index.html"
+      "/posts/mc-bayes/index.html"
     ]
   }
 ]
