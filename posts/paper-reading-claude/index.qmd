@@ -1,0 +1,10 @@
+---
+title: "CLAUDE.md for Paper Reading"
+description: "I use Claude to help me read a paper quickly in a limited amount of time."
+# date: "2025-03-01"
+toc: false
+categories:
+  - LLM-tools
+---
+
+I started using Claude to help me read papers more quickly, given that I couldn't spend too long time reading a paper when I have other works and a relatively slower pace of reading. You can see my CLAUDE.md file for this [here](https://www.dropbox.com/scl/fi/nbvuch1g8nvov0ucapy27/CLAUDE.md?rlkey=lhotjewjmnwrjei3p0f5hjlyz&dl=0).
