@@ -8,8 +8,9 @@ categories:
 ---
   
 
-These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.
+- These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.
+- These notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.
 
-These notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.
+---
 
 - [Notes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics](MC-BS-Bayesian.pdf)

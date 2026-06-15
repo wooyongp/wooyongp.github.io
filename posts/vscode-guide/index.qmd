@@ -7,8 +7,6 @@ categories:
   - Coding
 ---
 
-A lot of my friends at Yonsei have asked me how to install / set up VScode on their macs, especially for the purpose of rendering Latex in local PC rather than relying on Overleaf.
-
-I am not a professional in software, so please give me comments or additional tips if you have one:)
+A lot of my friends at Yonsei have asked me how to install / set up VScode on their macs, especially for the purpose of rendering Latex in local PC rather than relying on Overleaf. I am not a professional in software, though!
 
 - [Document Repo](https://github.com/wooyongp/vscode-guide/blob/master/setting-up.pdf)

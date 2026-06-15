@@ -11,7 +11,7 @@
     "href": "posts/klips/index.html",
     "title": "Introduction to Korean Labor Institute Panel Study(KLIPS)",
     "section": "",
-    "text": "I made these slides for a meeting in a research with other professors, just for our particular research goal. Let me know through email if you spot any issues!\np.s. For english description of the data, please check the other slides related to nationwide panel datasets\n\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)"
+    "text": "Data Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nFor the English description of the data, please check the other slides here."
   },
   {
     "objectID": "posts/git-intro/index.html",
@@ -23,23 +23,23 @@
   {
     "objectID": "posts/matrix-completion/index.html",
     "href": "posts/matrix-completion/index.html",
-    "title": "Calibration Plots",
+    "title": "Matrix Completion Methods for Causal Panel Data Models",
     "section": "",
-    "text": "Tutorial"
+    "text": "These are slides for a presentation at the Applied Microeconomics Reading Group, Yonsei University, made by myself and my colleague, Wonjin Seo.\nSlides\nPublished Paper"
   },
   {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
-    "title": "Playground",
+    "title": "Materials and Slides",
     "section": "",
-    "text": "Economics PhD Application Resources\n\n\n\nPhD Preparation\n\n\n\nPersonal Archive of Econ PhD related materials.\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCluster Robust Standard Errors\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCLAUDE.md for Paper Reading\n\n\n\nLLM-tools\n\n\n\nI use Claude to help me read a paper quickly in a limited amount of time.\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\nStatistics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCalibration Plots\n\n\n\nMachine Learning\n\n\n\nA tutorial on calibration plots for prediction performance evaluation\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCalibration Plots\n\n\n\nMachine Learning\n\n\n\nA tutorial on calibration plots for prediction performance evaluation\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nRecursive Partitioning for Heterogeneous Causal Effects\n\n\n\nCausal Inference\n\n\n\nPaper Review: Slides on Athey and Imbens (2016)\n\n\n\n\n\nMay 29, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started with Visual Studio Code on mac OS\n\n\n\nCoding\n\n\n\nInstallation and Setup Guide for vscode in mac\n\n\n\n\n\nMay 21, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on Monte Carlo, Bootstrapping, Bayesian Statistics\n\n\n\nStatistics\n\n\n\nPersonal studying notes for undergraduate Theoretical Statistics(1) midterm\n\n\n\n\n\nApr 24, 2025\n\n\nWooyong Park\n\n\n\n\n\nNo matching items"
+    "text": "Cluster Robust Standard Errors\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCLAUDE.md for Paper Reading\n\n\n\nLLM-tools\n\n\n\nI use Claude to help me read a paper quickly in a limited amount of time.\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\nStatistics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCalibration Plots\n\n\n\nMachine Learning\n\n\n\nA tutorial on calibration plots for prediction performance evaluation\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Covariates for Experiments\n\n\n\nCausal Inference\n\n\n\nIf the treatment is randomized, why do we need covariates?\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Completion Methods for Causal Panel Data Models\n\n\n\nMachine Learning\n\n\n\nPaper Review: Slides on Athey et al., (JASA; 2021)\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nRecursive Partitioning for Heterogeneous Causal Effects\n\n\n\nCausal Inference\n\n\n\nPaper Review: Slides on Athey and Imbens (PNAS; 2016)\n\n\n\n\n\nMay 29, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started with Visual Studio Code on mac OS\n\n\n\nCoding\n\n\n\nInstallation and Setup Guide for vscode in mac\n\n\n\n\n\nMay 21, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on Monte Carlo, Bootstrapping, Bayesian Statistics\n\n\n\nStatistics\n\n\n\nPersonal studying notes for undergraduate Theoretical Statistics(1) midterm\n\n\n\n\n\nApr 24, 2025\n\n\nWooyong Park\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/mc-bayes/index.html",
     "href": "posts/mc-bayes/index.html",
     "title": "Notes on Monte Carlo, Bootstrapping, Bayesian Statistics",
     "section": "",
-    "text": "These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.\nThese notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.\n\nNotes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics"
+    "text": "These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.\nThese notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.\n\n\n\nNotes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics"
   },
   {
     "objectID": "posts/phd-prep/index.html",
@@ -81,14 +81,14 @@
     "href": "posts/crse/index.html",
     "title": "Cluster Robust Standard Errors",
     "section": "",
-    "text": "I made these slides for the Applied Economic Methods study group at Yonsei University. Please let me know through email if you spot any troubles!\n\nCluster Robust Standard Errors"
+    "text": "These are slides for a presentation in the Applied Economic Methods study group at Yonsei University.\n\n\n\nSlides: Cluster Robust Standard Errors"
   },
   {
     "objectID": "posts/psid/index.html",
     "href": "posts/psid/index.html",
     "title": "Introduction to Panel Study of Income Dynamics(PSID)",
     "section": "",
-    "text": "I made these slides for a meeting in a research with other professors, just for our particular research goal. Let me know through email if you spot any issues!\n\nData Summary: PSID(Panel Study of Income Dynamics)"
+    "text": "Data Summary: PSID(Panel Study of Income Dynamics)"
   },
   {
     "objectID": "posts/aem-jsc/index.html",
@@ -109,14 +109,14 @@
     "href": "posts/coxph/index.html",
     "title": "Cox PH Models for Survival Analysis",
     "section": "",
-    "text": "I made these .revealjs slides for a meeting in a research with other professors, just for our particular research goal. Let me know through email if you spot any issues!\n\nCox PH models for Survival Analysis"
+    "text": "These are slides for a meeting in a research on duration analysis in the US marriage market. All research specific details and confidential information are omitted.\n\n\n\nSlides: Cox PH models for Survival Analysis"
   },
   {
     "objectID": "posts/cnef/index.html",
     "href": "posts/cnef/index.html",
     "title": "Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)",
     "section": "",
-    "text": "I made these slides for a presentation in a reading group at Yonsei University. Let me know through email if you spot any issues!\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)"
+    "text": "These are slides for a presentation in the Applied Microeconomics Reading Group at Yonsei University.\n\n\n\nSlides: Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)"
   },
   {
     "objectID": "index.html",
@@ -151,14 +151,14 @@
     "href": "posts/vscode-guide/index.html",
     "title": "Getting Started with Visual Studio Code on mac OS",
     "section": "",
-    "text": "A lot of my friends at Yonsei have asked me how to install / set up VScode on their macs, especially for the purpose of rendering Latex in local PC rather than relying on Overleaf.\nI am not a professional in software, so please give me comments or additional tips if you have one:)\n\nDocument Repo"
+    "text": "A lot of my friends at Yonsei have asked me how to install / set up VScode on their macs, especially for the purpose of rendering Latex in local PC rather than relying on Overleaf. I am not a professional in software, though!\n\nDocument Repo"
   },
   {
     "objectID": "posts/causal-tree/index.html",
     "href": "posts/causal-tree/index.html",
     "title": "Recursive Partitioning for Heterogeneous Causal Effects",
     "section": "",
-    "text": "Today, I presented a paper written by Professors Susan Athey abd Guido Imbens on causal trees and honest algorithm with my friends Joonwoo Shin, Jeongwoo Yang, and Minseo Seok at Yonsei University - Junior Scholar Club. It was a great experience to share our thoughts and ideas on the paper. I hope you find these slides and causal tree helpful for your own research.\n\nSlides"
+    "text": "These are slides for a presentation at the Junior Scholar Club, Yonsei University, made by myself and my colleagues (Joonwoo Shin, Jeongwoo Yang, and Minseo Seok).\n\n\n\nSlides\nPublished Paper"
   },
   {
     "objectID": "posts/calibration-plots/index.html",
@@ -187,5 +187,12 @@
     "title": "CLAUDE.md for Paper Reading",
     "section": "",
     "text": "I started using Claude to help me read papers more quickly, given that I couldn’t spend too long time reading a paper when I have other works and a relatively slower pace of reading. You can see my CLAUDE.md file for this here."
+  },
+  {
+    "objectID": "posts/covariates-for-experiments/index.html",
+    "href": "posts/covariates-for-experiments/index.html",
+    "title": "Using Covariates for Experiments",
+    "section": "",
+    "text": "These are slides for a weekly presentation during my research fellowship at the Golub Capital Social Impact Lab, Stanford GSB, made by myself.\n\n\n\nSlides"
   }
 ]

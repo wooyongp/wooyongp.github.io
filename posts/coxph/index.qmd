@@ -8,6 +8,9 @@ categories:
 ---
 
 
-I made these `.revealjs` slides for a meeting in a research with other professors, just for our particular research goal. Let me know through [email](mailto:tommypark822@gmail.com) if you spot any issues!
+- These are slides for a meeting in a research on duration analysis in the US marriage market. All research specific details and confidential information are omitted.
 
-- [Cox PH models for Survival Analysis](https://wooyongp.github.io/Duration-and-Hazards/docs/Survival%20Analysis.html#/title-slide)
+---
+
+
+- [Slides: Cox PH models for Survival Analysis](https://wooyongp.github.io/Duration-and-Hazards/docs/Survival%20Analysis.html#/title-slide)

@@ -1,0 +1,14 @@
+---
+title: "Using Covariates for Experiments"
+description: "If the treatment is randomized, why do we need covariates?"
+date: "2025-11-30"
+toc: false
+categories:
+  - Causal Inference
+---
+
+- These are slides for a weekly presentation during my research fellowship at the Golub Capital Social Impact Lab, Stanford GSB, made by myself.
+
+---
+
+- [Slides](../../ref/covariates_presentation.html)

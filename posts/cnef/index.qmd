@@ -8,7 +8,8 @@ categories:
 ---
 
 
-I made these slides for a presentation in a reading group at Yonsei University. Let me know through [email](mailto:tommypark822@gmail.com) if you spot any issues!
+- These are slides for a presentation in the Applied Microeconomics Reading Group at Yonsei University.
 
+---
 
-- [Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)](https://www.dropbox.com/scl/fi/3jtoo2se7ug6o0io5rugj/nationwide-panel-data-sets_public.pdf?rlkey=jhjsl6cvljn8qif9021ubgd6m&dl=0)
+- [Slides: Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)](https://www.dropbox.com/scl/fi/3jtoo2se7ug6o0io5rugj/nationwide-panel-data-sets_public.pdf?rlkey=jhjsl6cvljn8qif9021ubgd6m&dl=0)

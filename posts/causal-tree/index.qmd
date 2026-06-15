@@ -1,13 +1,16 @@
 ---
 title: "Recursive Partitioning for Heterogeneous Causal Effects"
-description: "Paper Review: Slides on Athey and Imbens (2016)"
+description: "Paper Review: Slides on Athey and Imbens (PNAS; 2016)"
 date: "2025-05-29"
 toc: false
 categories:
   - Causal Inference
 ---
 
-Today, I presented a paper written by Professors Susan Athey abd Guido Imbens on causal trees and honest algorithm with my friends Joonwoo Shin, Jeongwoo Yang, and Minseo Seok at Yonsei University - Junior Scholar Club. It was a great experience to share our thoughts and ideas on the paper. I hope you find these slides and causal tree helpful for your own research.
+- These are slides for a presentation at the Junior Scholar Club, Yonsei University, made by myself and my colleagues (Joonwoo Shin, Jeongwoo Yang, and Minseo Seok).
+
+
+---
 
 - [Slides](https://wooyongp.github.io/rpart-jsc25_1/slides.html#/title-slide)
-
+- [Published Paper](https://www.pnas.org/doi/10.1073/pnas.1510489113)

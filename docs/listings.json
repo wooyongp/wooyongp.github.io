@@ -2,7 +2,6 @@
   {
     "listing": "/posts/index.html",
     "items": [
-      "/posts/phd-prep/index.html",
       "/posts/crse/index.html",
       "/posts/psid/index.html",
       "/posts/paper-reading-claude/index.html",
@@ -12,6 +11,7 @@
       "/posts/cnef/index.html",
       "/posts/klips/index.html",
       "/posts/calibration-plots/index.html",
+      "/posts/covariates-for-experiments/index.html",
       "/posts/matrix-completion/index.html",
       "/posts/causal-tree/index.html",
       "/posts/vscode-guide/index.html",

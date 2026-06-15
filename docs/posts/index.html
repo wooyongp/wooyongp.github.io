@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.30">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="">
 
-<title>Playground – Wooyong Park</title>
+<title>Materials and Slides – Wooyong Park</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -36,14 +36,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-99258d85ffddbd9841977770f8edb96b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,7 +115,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -141,7 +142,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../photos/yonsei.png" alt="" class="navbar-logo">
+    <img src="../photos/yonsei.png" alt="" class="navbar-logo light-content">
+    <img src="../photos/yonsei.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Wooyong Park</span>
@@ -180,7 +182,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Playground</h1>
+      <h1 class="title">Materials and Slides</h1>
                       </div>
   </div>
     
@@ -197,7 +199,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(14)</span></div><div class="category" data-category="Q2F1c2FsJTIwSW5mZXJlbmNl">Causal Inference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29kaW5n">Coding <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGF0YQ==">Data <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RWNvbm9tZXRyaWNz">Econometrics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TExNLXRvb2xz">LLM-tools <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFjaGluZSUyMExlYXJuaW5n">Machine Learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UGhEJTIwUHJlcGFyYXRpb24=">PhD Preparation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RhdGlzdGljcw==">Statistics <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(14)</span></div><div class="category" data-category="Q2F1c2FsJTIwSW5mZXJlbmNl">Causal Inference <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q29kaW5n">Coding <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGF0YQ==">Data <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RWNvbm9tZXRyaWNz">Econometrics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TExNLXRvb2xz">LLM-tools <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFjaGluZSUyMExlYXJuaW5n">Machine Learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U3RhdGlzdGljcw==">Statistics <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -211,34 +213,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UGhEJTIwUHJlcGFyYXRpb24=" data-listing-file-modified-sort="1753125824000" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
-<div class="thumbnail"><a href="../posts/phd-prep/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/phd-prep/index.html" class="no-external">Economics PhD Application Resources</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGhEJTIwUHJlcGFyYXRpb24='); return false;">PhD Preparation</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/phd-prep/index.html" class="no-external">
-<p>Personal Archive of Econ PhD related materials.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/phd-prep/index.html" class="no-external">
-<div class="listing-author">
-Wooyong Park
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="RWNvbm9tZXRyaWNz" data-listing-file-modified-sort="1742294326000" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
+<div class="quarto-post image-right" data-index="0" data-categories="RWNvbm9tZXRyaWNz" data-listing-file-modified-sort="1781559074545" data-listing-reading-time-sort="1" data-listing-word-count-sort="22">
 <div class="thumbnail"><a href="../posts/crse/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -265,7 +240,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="RGF0YQ==" data-listing-file-modified-sort="1742294322000" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
+<div class="quarto-post image-right" data-index="1" data-categories="RGF0YQ==" data-listing-file-modified-sort="1781559086045" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
 <div class="thumbnail"><a href="../posts/psid/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -292,7 +267,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="TExNLXRvb2xz" data-listing-file-modified-sort="1779035503283" data-listing-reading-time-sort="1" data-listing-word-count-sort="43">
+<div class="quarto-post image-right" data-index="2" data-categories="TExNLXRvb2xz" data-listing-file-modified-sort="1779035499000" data-listing-reading-time-sort="1" data-listing-word-count-sort="43">
 <div class="thumbnail"><a href="../posts/paper-reading-claude/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -319,7 +294,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="RWNvbm9tZXRyaWNz" data-listing-file-modified-sort="1747801266000" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
+<div class="quarto-post image-right" data-index="3" data-categories="RWNvbm9tZXRyaWNz" data-listing-file-modified-sort="1747801266000" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
 <div class="thumbnail"><a href="../posts/aem-jsc/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -346,7 +321,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="U3RhdGlzdGljcw==" data-listing-file-modified-sort="1747801269000" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
+<div class="quarto-post image-right" data-index="4" data-categories="U3RhdGlzdGljcw==" data-listing-file-modified-sort="1781559069071" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
 <div class="thumbnail"><a href="../posts/coxph/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -373,7 +348,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="Q29kaW5n" data-listing-file-modified-sort="1747801268000" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="quarto-post image-right" data-index="5" data-categories="Q29kaW5n" data-listing-file-modified-sort="1747801268000" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <div class="thumbnail"><a href="../posts/git-intro/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -400,7 +375,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="RGF0YQ==" data-listing-file-modified-sort="1742294330000" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
+<div class="quarto-post image-right" data-index="6" data-categories="RGF0YQ==" data-listing-file-modified-sort="1781559052375" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
 <div class="thumbnail"><a href="../posts/cnef/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -427,7 +402,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="RGF0YQ==" data-listing-file-modified-sort="1742294325000" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<div class="quarto-post image-right" data-index="7" data-categories="RGF0YQ==" data-listing-file-modified-sort="1781559083681" data-listing-reading-time-sort="1" data-listing-word-count-sort="22">
 <div class="thumbnail"><a href="../posts/klips/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -454,7 +429,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="TWFjaGluZSUyMExlYXJuaW5n" data-listing-date-sort="1764489600000" data-listing-file-modified-sort="1764646763000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="8" data-categories="TWFjaGluZSUyMExlYXJuaW5n" data-listing-date-sort="1764489600000" data-listing-file-modified-sort="1781559032032" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="thumbnail"><a href="../posts/calibration-plots/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -484,7 +459,37 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="TWFjaGluZSUyMExlYXJuaW5n" data-listing-date-sort="1764489600000" data-listing-file-modified-sort="1764555780000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="9" data-categories="Q2F1c2FsJTIwSW5mZXJlbmNl" data-listing-date-sort="1764489600000" data-listing-file-modified-sort="1781559063115" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
+<div class="thumbnail"><a href="../posts/covariates-for-experiments/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../posts/covariates-for-experiments/index.html" class="no-external">Using Covariates for Experiments</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q2F1c2FsJTIwSW5mZXJlbmNl'); return false;">Causal Inference</div>
+
+</div>
+<div class="delink listing-description"><a href="../posts/covariates-for-experiments/index.html" class="no-external">
+<p>If the treatment is randomized, why do we need covariates?</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../posts/covariates-for-experiments/index.html" class="no-external">
+<div class="listing-date">
+Nov 30, 2025
+</div>
+<div class="listing-author">
+Wooyong Park
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="TWFjaGluZSUyMExlYXJuaW5n" data-listing-date-sort="1764489600000" data-listing-file-modified-sort="1781558393374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
 <div class="thumbnail"><a href="../posts/matrix-completion/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -492,7 +497,7 @@ Wooyong Park
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../posts/matrix-completion/index.html" class="no-external">Calibration Plots</a>
+<a href="../posts/matrix-completion/index.html" class="no-external">Matrix Completion Methods for Causal Panel Data Models</a>
 </h3>
 <div class="listing-categories">
 
@@ -500,7 +505,7 @@ Wooyong Park
 
 </div>
 <div class="delink listing-description"><a href="../posts/matrix-completion/index.html" class="no-external">
-<p>A tutorial on calibration plots for prediction performance evaluation</p>
+<p>Paper Review: Slides on Athey et al., (JASA; 2021)</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -514,7 +519,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="Q2F1c2FsJTIwSW5mZXJlbmNl" data-listing-date-sort="1748502000000" data-listing-file-modified-sort="1748741391059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<div class="quarto-post image-right" data-index="11" data-categories="Q2F1c2FsJTIwSW5mZXJlbmNl" data-listing-date-sort="1748502000000" data-listing-file-modified-sort="1781559046342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <div class="thumbnail"><a href="../posts/causal-tree/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -530,7 +535,7 @@ Wooyong Park
 
 </div>
 <div class="delink listing-description"><a href="../posts/causal-tree/index.html" class="no-external">
-<p>Paper Review: Slides on Athey and Imbens (2016)</p>
+<p>Paper Review: Slides on Athey and Imbens (PNAS; 2016)</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -544,7 +549,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="Q29kaW5n" data-listing-date-sort="1747810800000" data-listing-file-modified-sort="1748673274462" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
+<div class="quarto-post image-right" data-index="12" data-categories="Q29kaW5n" data-listing-date-sort="1747810800000" data-listing-file-modified-sort="1781559123569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
 <div class="thumbnail"><a href="../posts/vscode-guide/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -574,7 +579,7 @@ Wooyong Park
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="U3RhdGlzdGljcw==" data-listing-date-sort="1745478000000" data-listing-file-modified-sort="1745470432209" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
+<div class="quarto-post image-right" data-index="13" data-categories="U3RhdGlzdGljcw==" data-listing-date-sort="1745478000000" data-listing-file-modified-sort="1781558937813" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
 <div class="thumbnail"><a href="../posts/mc-bayes/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -658,13 +663,14 @@ Wooyong Park
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

@@ -1,5 +1,5 @@
 ---
-title: "Playground"
+title: "Materials and Slides"
 author: ""
 listing:
   contents: "."
