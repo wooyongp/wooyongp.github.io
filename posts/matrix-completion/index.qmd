@@ -4,9 +4,12 @@ description: "Paper Review: Slides on Athey et al., (JASA; 2021)"
 date: "2025-11-30"
 toc: false
 categories:
-  - Machine Learning
+  - Causal Inference
 ---
 
 - These are slides for a presentation at the Applied Microeconomics Reading Group, Yonsei University, made by myself and my colleague, Wonjin Seo.
+
+---
+
 - [Slides](https://www.dropbox.com/scl/fi/cyb2yoe9dk8hv39itjzna/matrix-completion-appliedRG.pdf?rlkey=lwj0gid69dvzqht6ajl9x5zy7&dl=0)
 - [Published Paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1891924)
