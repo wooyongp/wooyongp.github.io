@@ -9,7 +9,7 @@ title: "Research"
   <summary>Abstract</summary>
 <p align="justify">This study evaluates the impact of South Korea’s small and medium enterprise
 (SME) support policies on firm survival and performance by leveraging the exogenous
-shock of the COVID-19 pandemic. Using administrative data from the SMEs Integrated Management System (SIMS), we analyze the effectiveness of various SME support programs, including technology, human resources, export, domestic sales, startup,
+shock of the COVID-19 pandemic. Using administrative data from the SMEs Integrated Management System (SIMS), we analyze the effectiveness of various SME support programs, includi$$ng technology, human resources, export, domestic sales, startup,
 and management support. To address endogeneity, we exploit the natural experiment
 created by COVID-19; to mitigate selection bias, we restrict the sample to firms that
 received financial support in 2019 and examine how the timing of support (across
@@ -20,11 +20,24 @@ and substitutability among support policies, finding significant interactions fo
 combinations.</p>
 </details>
 
-## Work in Progress
 
-* Dutch Disease or Dutch Blessing? Resource Booms and Educational Decisions (solo-authored) (Draft available soon)
+## Working Papers
+
+* Difference-in-Differences with fine treatment timing and coarse outcomes: Theoretical justification and an empirical application to Korean SME support programs
 <details>
   <summary>Abstract</summary>
-<p align="justify"> This study investigates the impact of the shale gas boom on regional income and education. As opposed to the common fear of the Dutch Disease that resource booms extract resources from other sectors and deter education investments and related research literature that supports this view, we find that the shale gas boom had a positive impact on overall well-being in the subject regions, particularly on lower-income households. Based on a staggered difference-in-differences framework, we find that the shale gas boom has led to an approximately 18%p increase in highschool attendance and 4.8%p increase in the college enrollment rate in the households of the first quantile income in shale gas boom regions after three years of exposure to the shale gas boom. We also employ machine learning methods(XBART, causal forests, and matrix completion) to identify the heterogeneous effects of the shale gas boom on education and income in a data-driven manner and to cope with potential misspecification in the difference-in-differences framework. Our results show that the shale gas boom had a positive impact on education and income for lower-income households, but not for higher-income households. These results buttress our argument that the shale gas boom did not lead to the Dutch Disease in terms of education; rather, it alleviated social
-economic inequality and further replenished the college education opportunities for lower-income households.</p>
+<p align="justify">Government program records routinely timestamp treatment entry at a fine frequency— the month a firm enters a subsidy program—while the outcomes researchers care about, drawn from tax records and business registries, are reported only annually. A common
+compromise collapses entry into a “treated this year” dummy, discarding the within-year variation in exposure. 
+I show that the resulting coarse 2×2 difference-in-differences identifies an exposure-weighted average of the fine treatment-effect schedule, tilted toward short exposures, and is therefore biased for the full-year average treatment effect on the treated.
+I show two strategies to recover the full-year effect when units with a full-year exposure are not available: a finite-dimensional parametric schedule estimated by the minimum distance, and a roughness-penalized smoothing estimator with a Bayesian reading whose posterior for the full-year effect widens in exactly one direction.
+Furthermore, when entry timing is as-good-as-random given participation, it point-identifies the fine effect
+schedule can be still recovered and a selection-robust lower bound on the full-year effect can be computed together.
+Applied to the Korean SIMS SME database (Lee and Park, 2026), the framework converts
+an informal “effect grows toward the shock” heuristic into a quantitative, selection-bias-robust floor on the first-year effect.</p>
 </details>
+
+
+
+## Work in Progress
+
+* Dutch Disease or Dutch Blessing? Resource Booms and Educational Decisions
