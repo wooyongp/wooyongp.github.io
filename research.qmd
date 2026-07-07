@@ -26,14 +26,12 @@ combinations.</p>
 * Difference-in-Differences with fine treatment timing and coarse outcomes: Theoretical justification and an empirical application to Korean SME support programs
 <details>
   <summary>Abstract</summary>
-<p align="justify">Government program records routinely timestamp treatment entry at a fine frequency— the month a firm enters a subsidy program—while the outcomes researchers care about, drawn from tax records and business registries, are reported only annually. A common
-compromise collapses entry into a “treated this year” dummy, discarding the within-year variation in exposure. 
-I show that the resulting coarse 2×2 difference-in-differences identifies an exposure-weighted average of the fine treatment-effect schedule, tilted toward short exposures, and is therefore biased for the full-year average treatment effect on the treated.
-I show two strategies to recover the full-year effect when units with a full-year exposure are not available: a finite-dimensional parametric schedule estimated by the minimum distance, and a roughness-penalized smoothing estimator with a Bayesian reading whose posterior for the full-year effect widens in exactly one direction.
-Furthermore, when entry timing is as-good-as-random given participation, it point-identifies the fine effect
-schedule can be still recovered and a selection-robust lower bound on the full-year effect can be computed together.
-Applied to the Korean SIMS SME database (Lee and Park, 2026), the framework converts
-an informal “effect grows toward the shock” heuristic into a quantitative, selection-bias-robust floor on the first-year effect.</p>
+<p align="justify">Administrative program records routinely timestamp treatment entry at a fine frequency (e.g., the month a firm or an individual enters a government subsidy program) while the outcomes researchers care about (e.g., the firm's or individual's taxable returns) are reported at a sparser frequency, for example, only once a year.
+A common compromise collapses entry into a “treated this year” dummy, discarding the within-year variation in exposure, or to focus only on the observation treated at the beginning of the coarser period. These two methods are either biased or inefficient, since the former leads to biased estimates of the full-year average treatment effect on the treated, and the latter leads to discarding observations whose treatment effect gives some information about the full-year effect.
+I show that the 2×2 difference-in-differences that discards the within-year variation in exposure identifies an exposure-weighted average of the fine treatment-effect schedule and is tilted toward short exposures.
+To correct for the bias, I propose an estimating strategy that identifies the fine-period effect schedule first and then recovers the full-year effect by a roughness-penalized smoothing estimator with a Bayesian reading whose posterior for the full-year effect widens in exactly one direction.
+Furthermore, when entry timing is as-good-as-random given participation and the magnitude of the additional effect strictly decreases with exposure (Lee and Park, 2026), the fine effect schedule can be still recovered and a selection-robust lower bound on the full-year effect can be computed together.
+Applying the foregoing methodology to the Korean SIMS SME database, I convert an informal heuristic in Lee and Park (2026) into a quantitative, selection-bias-robust floor on the first-year effect of the support programs. </p>
 </details>
 
 
