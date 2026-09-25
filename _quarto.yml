@@ -23,7 +23,9 @@ website:
 
 format:
   html:
-    theme: litera
+    theme:
+      - litera
+      - theme.scss
     css: styles.css
     toc: false
 
