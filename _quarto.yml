@@ -5,7 +5,7 @@ project:
     
 website:
   title: "Wooyong Park"
-  favicon: "photos/favicon_2.png"
+  favicon: "photos/favicon2.png"
   navbar:
     left:
       - href: index.qmd
