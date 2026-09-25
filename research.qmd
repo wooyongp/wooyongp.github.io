@@ -2,7 +2,18 @@
 title: "Research"
 ---
 
-## Published Papers
+
+## Work in Progress
+
+* Causal Inference with fine treatment timing and coarse outcomes
+<details>
+  <summary>Abstract</summary>
+<p align="justify">Coming soon with full manuscript.</p>
+</details>
+
+* Dutch Disease or Dutch Blessing? Resource Booms and Educational Decisions
+
+## Peer-reviewed Publications
 
 * Evaluating the Impact of South Korea's SME Support Policies Using the Economic Shock of Covid-19 with [Seunghoon Lee](https://sites.google.com/view/seunghoon/home). Published in **Global Economic Review**, Feb. 2026, pp. 1-22. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/1226508X.2026.2624836). [[Working Draft]](https://drive.google.com/file/d/1MhaOfdwhEJVDy_jLx78lyeQLySR1LVoV/view?usp=sharing)
 <details>
@@ -19,21 +30,3 @@ with higher employment, revenue, and firm survival. We also examine complementar
 and substitutability among support policies, finding significant interactions for certain
 combinations.</p>
 </details>
-
-
-## Working Papers
-
-* Difference-in-Differences with fine treatment timing and coarse outcomes: Theoretical justification and an empirical application to Korean SME support programs
-<details>
-  <summary>Abstract</summary>
-<p align="justify">Administrative program records routinely timestamp treatment entry at a fine frequency (e.g., the month a firm or an individual enters a government subsidy program) while the outcomes researchers care about (e.g., the firm's or individual's taxable returns) are reported at a sparser frequency, for example, only once a year.
-A common compromise collapses entry into a “treated this year” dummy, discarding the within-year variation in exposure, or to focus only on the observation treated at the beginning of the coarser period. These two methods are either biased or inefficient, since the former leads to biased estimates of the full-year average treatment effect on the treated, and the latter leads to discarding observations whose treatment effect gives some information about the full-year effect.
-I show that the 2×2 difference-in-differences that discards the within-year variation in exposure identifies an exposure-weighted average of the fine treatment-effect schedule and is tilted toward short exposures.
-To correct for the bias, I propose an estimating strategy that identifies the fine-period effect schedule first and then recovers the full-year effect by a roughness-penalized smoothing estimator where the penalty hyperparameter is chosen by a restricted maximum likelihood on the fine treatment-effect schedule. </p>
-</details>
-
-
-
-## Work in Progress
-
-* Dutch Disease or Dutch Blessing? Resource Booms and Educational Decisions
