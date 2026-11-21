@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+// Dark mode: same fonts and layout as theme.scss, on a warm near-black background.
+// The crimson accent is lightened so links stay readable on the dark background.
+$body-bg: #161314;
+$body-color: #e4dedf;
+$headings-color: #f2ecec;
+$primary: #e8798b;
+$link-color: #e8798b;
+$link-hover-color: #f4a3b0;
+$navbar-bg: #1c1819;
+$navbar-fg: #cfc7c8;
+$navbar-hl: #e8798b;
+$border-color: #3a3233;
+$table-border-color: rgba(255, 255, 255, .12);
+$input-bg: #221d1e;
+$input-color: #e4dedf;
+$input-border-color: rgba(255, 255, 255, .15);

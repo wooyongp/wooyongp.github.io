@@ -1,52 +1,66 @@
 [
   {
-    "objectID": "favorite_books.html",
-    "href": "favorite_books.html",
-    "title": "Favorite Books",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Wooyong Park",
     "section": "",
-    "text": "Currently I’m reading The Personal MBA, written by Josh Kaufman.\n4 of my favorite books are\n\nSiddhartha (by Herman Hesse)\nCrime and Punishment (by Fyodor Dostoevksy)\nMan’s Search for Meaning (by Victor Frankl)\nDemian (by Herman Hesse)"
+    "text": "CV\n  GitHub\n  Email\n\nWooyong Park\n\nEducation\n\nB.A. in Economics & Applied Statistics\n\nYonsei University, 2025\n\n\n\n\n\n\nWelcome to my webpage!\n\nI am a predoctoral research fellow at the Golub Capital Social Impact Lab, Stanford Graduate School of Business. I am primarily interested in applied econometrics, causal inference, and applications of machine learning and AI in economics.\n\n\n\n\nWork in Progress\n\nDifference-in-Differences with fine treatment timing and coarse outcomes\n\n\nAbstract\n\n\nIn panel-data settings, treatment timing may be recorded at a finer frequency than outcomes: entry into a program may be dated to the day, month, or quarter, whereas outcomes are reported only annually or biennially. Coarsening the treatment date at the outcome-reporting frequency groups together units with different lengths of exposure. I study the implications of this frequency mismatch for interpreting difference-in-differences (DID) estimates and identifying cumulative treatment effects. Allowing treatment effects to differ across entry cohorts, I show that the DID estimand equals average exposure duration multiplied by a weighted average of fine-period treatment effects. Shorter exposure durations receive more weight, tilting the DID estimand toward shorter exposures. In empirical studies, the DID estimates with coarsened treatment dates are often interpreted as the average cumulative effect of a full reporting period of treatment. I show that this interpretation is generally incorrect due to the shorter exposure receiving more weight but list the cases where the cumulative effect is recoverable or partially identifiable, highlighting how the interpretation of the DID estimand depends on assumptions about treatment effect heterogeneity.\n\n\n\n\n\nPeer-reviewed Publications\n\nEvaluating the Impact of South Korea’s SME Support Policies Using the Economic Shock of Covid-19 with Seunghoon Lee. Published in Global Economic Review, Feb. 2026, pp. 1-22. [Paper]. [Working Draft]\n\n\nAbstract\n\n\nThis study evaluates the impact of South Korea’s small and medium enterprise (SME) support policies on firm survival and performance by leveraging the exogenous shock of the COVID-19 pandemic. Using administrative data from the SMEs Integrated Management System (SIMS), we analyze the effectiveness of various SME support programs, including technology, human resources, export, domestic sales, startup, and management support. To address endogeneity, we exploit the natural experiment created by COVID-19; to mitigate selection bias, we restrict the sample to firms that received financial support in 2019 and examine how the timing of support (across 2019 quarters) affects outcomes. If firms receiving support closer to the pandemic show greater improvements, this suggests a policy effect rather than selection bias. Our results indicate that technology and domestic sales support are significantly associated with higher employment, revenue, and firm survival. We also examine complementarity and substitutability among support policies, finding significant interactions for certain combinations."
   },
   {
-    "objectID": "posts/klips/index.html",
-    "href": "posts/klips/index.html",
-    "title": "Introduction to Korean Labor Institute Panel Study(KLIPS)",
+    "objectID": "posts/cnef/index.html",
+    "href": "posts/cnef/index.html",
+    "title": "Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)",
     "section": "",
-    "text": "Data Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nFor the English description of the data, please check the other slides here."
+    "text": "These are slides for a presentation in the Applied Microeconomics Reading Group at Yonsei University.\n\n\n\nSlides: Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)"
   },
   {
-    "objectID": "posts/git-intro/index.html",
-    "href": "posts/git-intro/index.html",
-    "title": "Introductory Git/GitHub",
+    "objectID": "posts/vscode-guide/index.html",
+    "href": "posts/vscode-guide/index.html",
+    "title": "Getting Started with Visual Studio Code on mac OS",
     "section": "",
-    "text": "Introduction to Git/Github for Econ Researchers\nGit/Github Cheatsheets(occasionally being updated)"
+    "text": "A lot of my friends at Yonsei have asked me how to install / set up VScode on their macs, especially for the purpose of rendering Latex in local PC rather than relying on Overleaf. I am not a professional in software, though!\n\nDocument Repo"
   },
   {
-    "objectID": "posts/matrix-completion/index.html",
-    "href": "posts/matrix-completion/index.html",
-    "title": "Matrix Completion Methods for Causal Panel Data Models",
+    "objectID": "posts/causal-tree/index.html",
+    "href": "posts/causal-tree/index.html",
+    "title": "Recursive Partitioning for Heterogeneous Causal Effects",
     "section": "",
-    "text": "These are slides for a presentation at the Applied Microeconomics Reading Group, Yonsei University, made by myself and my colleague, Wonjin Seo.\n\n\n\nSlides\nPublished Paper"
+    "text": "These are slides for a presentation at the Junior Scholar Club, Yonsei University, made by myself and my colleagues (Joonwoo Shin, Jeongwoo Yang, and Minseo Seok).\n\n\n\nSlides\nPublished Paper"
   },
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Materials and Slides",
+    "objectID": "posts/aem-jsc/index.html",
+    "href": "posts/aem-jsc/index.html",
+    "title": "Applied Economic Methods Study Group(@ Yonsei University)",
     "section": "",
-    "text": "Cluster Robust Standard Errors\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCLAUDE.md for Paper Reading\n\n\n\nLLM-tools\n\n\n\nI use Claude to help me read a paper quickly in a limited amount of time.\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\nStatistics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCalibration Plots\n\n\n\nMachine Learning\n\n\n\nA tutorial on calibration plots for prediction performance evaluation\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Covariates for Experiments\n\n\n\nCausal Inference\n\n\n\nIf the treatment is randomized, why do we need covariates?\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Completion Methods for Causal Panel Data Models\n\n\n\nCausal Inference\n\n\n\nPaper Review: Slides on Athey et al., (JASA; 2021)\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nRecursive Partitioning for Heterogeneous Causal Effects\n\n\n\nCausal Inference\n\n\n\nPaper Review: Slides on Athey and Imbens (PNAS; 2016)\n\n\n\n\n\nMay 29, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started with Visual Studio Code on mac OS\n\n\n\nCoding\n\n\n\nInstallation and Setup Guide for vscode in mac\n\n\n\n\n\nMay 21, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on Monte Carlo, Bootstrapping, Bayesian Statistics\n\n\n\nStatistics\n\n\n\nPersonal studying notes for undergraduate Theoretical Statistics(1) midterm\n\n\n\n\n\nApr 24, 2025\n\n\nWooyong Park\n\n\n\n\n\nNo matching items"
+    "text": "I started out this study group in July(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every twice a year, passing on the materials and resources to future students as well. I gave presentations on topics including clustering standard errors and staggered difference-in-differences."
   },
   {
-    "objectID": "posts/mc-bayes/index.html",
-    "href": "posts/mc-bayes/index.html",
-    "title": "Notes on Monte Carlo, Bootstrapping, Bayesian Statistics",
-    "section": "",
-    "text": "These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.\nThese notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.\n\n\n\nNotes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics"
+    "objectID": "posts/aem-jsc/index.html#my-presentation-slides",
+    "href": "posts/aem-jsc/index.html#my-presentation-slides",
+    "title": "Applied Economic Methods Study Group(@ Yonsei University)",
+    "section": "My Presentation Slides",
+    "text": "My Presentation Slides\n\nCluster Robust Standard Errors\nStaggered Difference-in-Differences I\nStaggered Difference-in-Differences II(R)\nStaggered Difference-in-Differences II(Stata)\nIntroduction to Git/Github for Econ Researchers\n\nPlease visit our website!"
   },
   {
-    "objectID": "posts/phd-prep/index.html",
-    "href": "posts/phd-prep/index.html",
-    "title": "Economics PhD Application Resources",
+    "objectID": "posts/paper-reading-claude/index.html",
+    "href": "posts/paper-reading-claude/index.html",
+    "title": "CLAUDE.md for Paper Reading",
     "section": "",
-    "text": "Personal Archive of Econ PhD related materials. Experimenting these on myself, I’ve hardly ever been a quintessential complier.\n\nShoulder of Giants\n\nProfessor Susan Athey’s Professional Advice\nNotes on Applying for a PhD in Economics by Professor Jesse Shapiro\nNatalie Duncombe’s Economics PhD Guides\n\n\n\nMy mentor, my guru…\n\nHyoungchul Kim’s Tips for Students in Yonsei\n\n\n\nForesight on the ex post life\n\nMy Favorite YouTube Channel of Grad Life(not econ)"
+    "text": "I started using Claude to help me read papers more quickly, given that I couldn’t spend too long time reading a paper when I have other works and a relatively slower pace of reading. You can see my CLAUDE.md file for this here."
+  },
+  {
+    "objectID": "posts/psid/index.html",
+    "href": "posts/psid/index.html",
+    "title": "Introduction to Panel Study of Income Dynamics(PSID)",
+    "section": "",
+    "text": "Data Summary: PSID(Panel Study of Income Dynamics)"
+  },
+  {
+    "objectID": "posts/crse/index.html",
+    "href": "posts/crse/index.html",
+    "title": "Cluster Robust Standard Errors",
+    "section": "",
+    "text": "These are slides for a presentation in the Applied Economic Methods study group at Yonsei University.\n\n\n\nSlides: Cluster Robust Standard Errors"
   },
   {
     "objectID": "temp/posts.html",
@@ -77,90 +91,6 @@
     "text": "Data\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\npresented in the Applied Microeconomics Reading Group, Yonsei University\n\nData Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nData Summary: PSID(Panel Study of Income Dynamics)\n\n\nPapers presented in the Reading Group or other seminars\n\nSocial Media and Mental Health(Braghieri et al., 2022)\nSocial Connectedness and Information Markets(Kranton and McAdams, 2024)\nTwo-Way Fixed Effects Estimators with Heterogeneous Treatment Effects(de Chaisemartin and D’Haultfoeuille, 2020)"
   },
   {
-    "objectID": "posts/crse/index.html",
-    "href": "posts/crse/index.html",
-    "title": "Cluster Robust Standard Errors",
-    "section": "",
-    "text": "These are slides for a presentation in the Applied Economic Methods study group at Yonsei University.\n\n\n\nSlides: Cluster Robust Standard Errors"
-  },
-  {
-    "objectID": "posts/psid/index.html",
-    "href": "posts/psid/index.html",
-    "title": "Introduction to Panel Study of Income Dynamics(PSID)",
-    "section": "",
-    "text": "Data Summary: PSID(Panel Study of Income Dynamics)"
-  },
-  {
-    "objectID": "posts/aem-jsc/index.html",
-    "href": "posts/aem-jsc/index.html",
-    "title": "Applied Economic Methods Study Group(@ Yonsei University)",
-    "section": "",
-    "text": "I started out this study group in July(2024) with students in the Economics department who aim for attaining PhD in Applied Economics. We are planning to have this study group every twice a year, passing on the materials and resources to future students as well. I gave presentations on topics including clustering standard errors and staggered difference-in-differences."
-  },
-  {
-    "objectID": "posts/aem-jsc/index.html#my-presentation-slides",
-    "href": "posts/aem-jsc/index.html#my-presentation-slides",
-    "title": "Applied Economic Methods Study Group(@ Yonsei University)",
-    "section": "My Presentation Slides",
-    "text": "My Presentation Slides\n\nCluster Robust Standard Errors\nStaggered Difference-in-Differences I\nStaggered Difference-in-Differences II(R)\nStaggered Difference-in-Differences II(Stata)\nIntroduction to Git/Github for Econ Researchers\n\nPlease visit our website!"
-  },
-  {
-    "objectID": "posts/coxph/index.html",
-    "href": "posts/coxph/index.html",
-    "title": "Cox PH Models for Survival Analysis",
-    "section": "",
-    "text": "These are slides for a meeting in a research on duration analysis in the US marriage market. All research specific details and confidential information are omitted.\n\n\n\nSlides: Cox PH models for Survival Analysis"
-  },
-  {
-    "objectID": "posts/cnef/index.html",
-    "href": "posts/cnef/index.html",
-    "title": "Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)",
-    "section": "",
-    "text": "These are slides for a presentation in the Applied Microeconomics Reading Group at Yonsei University.\n\n\n\nSlides: Introduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Wooyong Park",
-    "section": "",
-    "text": "Welcome to my webpage!\n\nI am a predoctoral research fellow at the Golub Capital Social Impact Lab, Stanford GSB. I am primarily interested in applied econometrics, causal inference, and applications of machine learning and AI in economics.\n\n\nEducation\n\nB.A. in Economics and Applied Statistics\n\nYonsei University, 2025"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Causal Inference with fine treatment timing and coarse outcomes\n\n\nAbstract\n\n\nComing soon with full manuscript.\n\n\nDutch Disease or Dutch Blessing? Resource Booms and Educational Decisions"
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "Working Papers",
-    "text": "Working Papers\n\nDifference-in-Differences with fine treatment timing and coarse outcomes: Theoretical justification and an empirical application to Korean SME support programs\n\n\nAbstract\n\n\nAdministrative program records routinely timestamp treatment entry at a fine frequency (e.g., the month a firm or an individual enters a government subsidy program) while the outcomes researchers care about (e.g., the firm’s or individual’s taxable returns) are reported at a sparser frequency, for example, only once a year. A common compromise collapses entry into a “treated this year” dummy, discarding the within-year variation in exposure, or to focus only on the observation treated at the beginning of the coarser period. These two methods are either biased or inefficient, since the former leads to biased estimates of the full-year average treatment effect on the treated, and the latter leads to discarding observations whose treatment effect gives some information about the full-year effect. I show that the 2×2 difference-in-differences that discards the within-year variation in exposure identifies an exposure-weighted average of the fine treatment-effect schedule and is tilted toward short exposures. To correct for the bias, I propose an estimating strategy that identifies the fine-period effect schedule first and then recovers the full-year effect by a roughness-penalized smoothing estimator where the penalty hyperparameter is chosen by a restricted maximum likelihood on the fine treatment-effect schedule."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Wooyong Park",
-    "section": "",
-    "text": "B.A. in Economics and Applied Statistics, 2025(expected) Yonsei University"
-  },
-  {
-    "objectID": "posts/vscode-guide/index.html",
-    "href": "posts/vscode-guide/index.html",
-    "title": "Getting Started with Visual Studio Code on mac OS",
-    "section": "",
-    "text": "A lot of my friends at Yonsei have asked me how to install / set up VScode on their macs, especially for the purpose of rendering Latex in local PC rather than relying on Overleaf. I am not a professional in software, though!\n\nDocument Repo"
-  },
-  {
-    "objectID": "posts/causal-tree/index.html",
-    "href": "posts/causal-tree/index.html",
-    "title": "Recursive Partitioning for Heterogeneous Causal Effects",
-    "section": "",
-    "text": "These are slides for a presentation at the Junior Scholar Club, Yonsei University, made by myself and my colleagues (Joonwoo Shin, Jeongwoo Yang, and Minseo Seok).\n\n\n\nSlides\nPublished Paper"
-  },
-  {
     "objectID": "posts/calibration-plots/index.html",
     "href": "posts/calibration-plots/index.html",
     "title": "Calibration Plots",
@@ -168,25 +98,11 @@
     "text": "Tutorial"
   },
   {
-    "objectID": "research.html#published-papers",
-    "href": "research.html#published-papers",
-    "title": "Research",
+    "objectID": "posts/mc-bayes/index.html",
+    "href": "posts/mc-bayes/index.html",
+    "title": "Notes on Monte Carlo, Bootstrapping, Bayesian Statistics",
     "section": "",
-    "text": "Evaluating the Impact of South Korea’s SME Support Policies Using the Economic Shock of Covid-19 with Seunghoon Lee. Published in Global Economic Review, Feb. 2026, pp. 1-22. [Paper]. [Working Draft]\n\n\nAbstract\n\n\nThis study evaluates the impact of South Korea’s small and medium enterprise (SME) support policies on firm survival and performance by leveraging the exogenous shock of the COVID-19 pandemic. Using administrative data from the SMEs Integrated Management System (SIMS), we analyze the effectiveness of various SME support programs, includi$$ng technology, human resources, export, domestic sales, startup, and management support. To address endogeneity, we exploit the natural experiment created by COVID-19; to mitigate selection bias, we restrict the sample to firms that received financial support in 2019 and examine how the timing of support (across 2019 quarters) affects outcomes. If firms receiving support closer to the pandemic show greater improvements, this suggests a policy effect rather than selection bias. Our results indicate that technology and domestic sales support are significantly associated with higher employment, revenue, and firm survival. We also examine complementarity and substitutability among support policies, finding significant interactions for certain combinations."
-  },
-  {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
-    "section": "",
-    "text": "Causal Inference with fine treatment timing and coarse outcomes\n\n\nAbstract\n\n\nComing soon with full manuscript.\n\n\nDutch Disease or Dutch Blessing? Resource Booms and Educational Decisions"
-  },
-  {
-    "objectID": "posts/paper-reading-claude/index.html",
-    "href": "posts/paper-reading-claude/index.html",
-    "title": "CLAUDE.md for Paper Reading",
-    "section": "",
-    "text": "I started using Claude to help me read papers more quickly, given that I couldn’t spend too long time reading a paper when I have other works and a relatively slower pace of reading. You can see my CLAUDE.md file for this here."
+    "text": "These are notes on Monte Carlo methods, bootstrapping, and Bayesian statistics, which I wrote for my midterm prep.\nThese notes cover the most basic concepts in each methods, and I hope these are helpful for others as well.\n\n\n\nNotes on Monte Carlo Methods, Bootstrap Procedures, and Bayesian Statistics"
   },
   {
     "objectID": "posts/covariates-for-experiments/index.html",
@@ -196,10 +112,38 @@
     "text": "These are slides for a weekly presentation during my research fellowship at the Golub Capital Social Impact Lab, Stanford GSB, made by myself.\n\n\n\nSlides"
   },
   {
-    "objectID": "research.html#peer-reviewed-publications",
-    "href": "research.html#peer-reviewed-publications",
-    "title": "Research",
-    "section": "Peer-reviewed Publications",
-    "text": "Peer-reviewed Publications\n\nEvaluating the Impact of South Korea’s SME Support Policies Using the Economic Shock of Covid-19 with Seunghoon Lee. Published in Global Economic Review, Feb. 2026, pp. 1-22. [Paper]. [Working Draft]\n\n\nAbstract\n\n\nThis study evaluates the impact of South Korea’s small and medium enterprise (SME) support policies on firm survival and performance by leveraging the exogenous shock of the COVID-19 pandemic. Using administrative data from the SMEs Integrated Management System (SIMS), we analyze the effectiveness of various SME support programs, includi$$ng technology, human resources, export, domestic sales, startup, and management support. To address endogeneity, we exploit the natural experiment created by COVID-19; to mitigate selection bias, we restrict the sample to firms that received financial support in 2019 and examine how the timing of support (across 2019 quarters) affects outcomes. If firms receiving support closer to the pandemic show greater improvements, this suggests a policy effect rather than selection bias. Our results indicate that technology and domestic sales support are significantly associated with higher employment, revenue, and firm survival. We also examine complementarity and substitutability among support policies, finding significant interactions for certain combinations."
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Materials and Slides",
+    "section": "",
+    "text": "Cluster Robust Standard Errors\n\n\n\nEconometrics\n\n\n\nAn introductory documetation on Standard Error Clustering\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Panel Study of Income Dynamics(PSID)\n\n\n\nData\n\n\n\nA summary slide on PSID\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCLAUDE.md for Paper Reading\n\n\n\nLLM-tools\n\n\n\nI use Claude to help me read a paper quickly in a limited amount of time.\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nApplied Economic Methods Study Group(@ Yonsei University)\n\n\n\nEconometrics\n\n\n\nStudy group materials with graduate and undergraduate students in Yonsei University who aim to attain PhD in Applied Economics\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCox PH Models for Survival Analysis\n\n\n\nStatistics\n\n\n\nA summary slide on Survival Analysis and the use of Cox regression\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Git/GitHub\n\n\n\nCoding\n\n\n\nIntroductory Documentations for Git and GitHub, especialy for Econ Research\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Nationwide Panel Datasets(PSID, KLIPS, CNEF)\n\n\n\nData\n\n\n\nSlides on nationwide panel datasets - mainly about PSID(USA) and KLIPS(Korea)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Korean Labor Institute Panel Study(KLIPS)\n\n\n\nData\n\n\n\nA summary slide on KLIPS(in Korean)\n\n\n\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nCalibration Plots\n\n\n\nMachine Learning\n\n\n\nA tutorial on calibration plots for prediction performance evaluation\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Covariates for Experiments\n\n\n\nCausal Inference\n\n\n\nIf the treatment is randomized, why do we need covariates?\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Completion Methods for Causal Panel Data Models\n\n\n\nCausal Inference\n\n\n\nPaper Review: Slides on Athey et al., (JASA; 2021)\n\n\n\n\n\nNov 30, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nRecursive Partitioning for Heterogeneous Causal Effects\n\n\n\nCausal Inference\n\n\n\nPaper Review: Slides on Athey and Imbens (PNAS; 2016)\n\n\n\n\n\nMay 29, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started with Visual Studio Code on mac OS\n\n\n\nCoding\n\n\n\nInstallation and Setup Guide for vscode in mac\n\n\n\n\n\nMay 21, 2025\n\n\nWooyong Park\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on Monte Carlo, Bootstrapping, Bayesian Statistics\n\n\n\nStatistics\n\n\n\nPersonal studying notes for undergraduate Theoretical Statistics(1) midterm\n\n\n\n\n\nApr 24, 2025\n\n\nWooyong Park\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/matrix-completion/index.html",
+    "href": "posts/matrix-completion/index.html",
+    "title": "Matrix Completion Methods for Causal Panel Data Models",
+    "section": "",
+    "text": "These are slides for a presentation at the Applied Microeconomics Reading Group, Yonsei University, made by myself and my colleague, Wonjin Seo.\n\n\n\nSlides\nPublished Paper"
+  },
+  {
+    "objectID": "posts/coxph/index.html",
+    "href": "posts/coxph/index.html",
+    "title": "Cox PH Models for Survival Analysis",
+    "section": "",
+    "text": "These are slides for a meeting in a research on duration analysis in the US marriage market. All research specific details and confidential information are omitted.\n\n\n\nSlides: Cox PH models for Survival Analysis"
+  },
+  {
+    "objectID": "posts/git-intro/index.html",
+    "href": "posts/git-intro/index.html",
+    "title": "Introductory Git/GitHub",
+    "section": "",
+    "text": "Introduction to Git/Github for Econ Researchers\nGit/Github Cheatsheets(occasionally being updated)"
+  },
+  {
+    "objectID": "posts/klips/index.html",
+    "href": "posts/klips/index.html",
+    "title": "Introduction to Korean Labor Institute Panel Study(KLIPS)",
+    "section": "",
+    "text": "Data Summary: KLIPS(Korean Labor Institute Panel Study)(KOR)\nFor the English description of the data, please check the other slides here."
   }
 ]

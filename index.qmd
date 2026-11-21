@@ -1,32 +1,84 @@
 ---
 title: "Wooyong Park"
-about:
-  template: trestles
-  image: photos/gsb-headshot2.jpg
-  links:
-    - icon: file-text-fill
-      text: CV
-      href: ref/cv_public.pdf
-    - icon: github
-      text: GitHub
-      href: https://github.com/wooyongp
-    - icon: envelope-fill
-      text: Email
-      href: mailto:wooyongp@stanford.edu
+body-classes: home-page
 ---
 
+::::: {.home}
 
+:::: {.home-side}
+
+::: {.home-photo}
+![](photos/gsb-headshot2.jpg){fig-alt="Photo of Wooyong Park"}
+:::
+
+```{=html}
+<div class="home-links">
+  <a href="ref/cv_public.pdf"><i class="bi bi-file-text-fill"></i><span>CV</span></a>
+  <a href="https://github.com/wooyongp"><i class="bi bi-github"></i><span>GitHub</span></a>
+  <a href="mailto:wooyongp@stanford.edu"><i class="bi bi-envelope-fill"></i><span>Email</span></a>
+</div>
+```
+```{=html}
+<h2 class="home-name" style="font-weight: 700;">Wooyong Park</h2>
+```
+
+::: {.home-edu}
+### Education
+- B.A. in Economics & Applied Statistics
+  + Yonsei University, 2025
+:::
+
+::::
+
+:::: {.home-main}
+
+
+::: {.home-intro}
 Welcome to my webpage!
 
 <p align="justify">
-I am a predoctoral research fellow at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil), Stanford GSB.
+I am a predoctoral research fellow at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil), Stanford Graduate School of Business.
 I am primarily interested in applied econometrics, causal inference, and applications of machine learning and AI in economics.
+</p>
+:::
 
+::: {.home-research}
+### Work in Progress
 
+* Difference-in-Differences with fine treatment timing and coarse outcomes
+<details>
+  <summary>Abstract</summary>
+<p align="justify">
+In panel-data settings, treatment timing may be recorded at a finer frequency than outcomes: entry into a program may be dated to the day, month, or quarter, whereas outcomes are reported only annually or biennially.
+Coarsening the treatment date at the outcome-reporting frequency groups together units with different lengths of exposure.
+I study the implications of this frequency mismatch for interpreting difference-in-differences (DID) estimates and identifying cumulative treatment effects.
+Allowing treatment effects to differ across entry cohorts, I show that the DID estimand equals average exposure duration multiplied by a weighted average of fine-period treatment effects.
+Shorter exposure durations receive more weight, tilting the DID estimand toward shorter exposures.
+In empirical studies, the DID estimates with coarsened treatment dates are often interpreted as the average cumulative effect of a full reporting period of treatment.
+I show that this interpretation is generally incorrect due to the shorter exposure receiving more weight but list the cases where the cumulative effect is recoverable or partially identifiable,
+highlighting how the interpretation of the DID estimand depends on assumptions about treatment effect heterogeneity.
+</p>
+</details>
 
-<br>
+### Peer-reviewed Publications
 
+* Evaluating the Impact of South Korea's SME Support Policies Using the Economic Shock of Covid-19 with [Seunghoon Lee](https://sites.google.com/view/seunghoon/home). Published in **Global Economic Review**, Feb. 2026, pp. 1-22. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/1226508X.2026.2624836). [[Working Draft]](https://drive.google.com/file/d/1MhaOfdwhEJVDy_jLx78lyeQLySR1LVoV/view?usp=sharing)
+<details>
+  <summary>Abstract</summary>
+<p align="justify">This study evaluates the impact of South Korea’s small and medium enterprise
+(SME) support policies on firm survival and performance by leveraging the exogenous
+shock of the COVID-19 pandemic. Using administrative data from the SMEs Integrated Management System (SIMS), we analyze the effectiveness of various SME support programs, including technology, human resources, export, domestic sales, startup,
+and management support. To address endogeneity, we exploit the natural experiment
+created by COVID-19; to mitigate selection bias, we restrict the sample to firms that
+received financial support in 2019 and examine how the timing of support (across
+2019 quarters) affects outcomes. If firms receiving support closer to the pandemic show
+greater improvements, this suggests a policy effect rather than selection bias. Our results indicate that technology and domestic sales support are significantly associated
+with higher employment, revenue, and firm survival. We also examine complementarity
+and substitutability among support policies, finding significant interactions for certain
+combinations.</p>
+</details>
+:::
 
-### Education
-- B.A. in Economics and Applied Statistics
-  + Yonsei University, 2025
+::::
+
+:::::

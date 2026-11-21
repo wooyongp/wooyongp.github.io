@@ -8,3 +8,131 @@ section {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
 }
+
+/* Wordmark style shared by the navbar title and the home page name */
+.navbar .navbar-title,
+.home-name {
+  font-family: "Cormorant Garamond", Garamond, "Times New Roman", serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+.navbar .navbar-title {
+  font-size: 1.5rem;
+}
+
+.navbar .nav-link .menu-text {
+  font-family: "Cormorant Garamond", Garamond, "Times New Roman", serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.95rem;
+}
+
+/* The home page shows the name in its own heading, so hide Quarto's title there */
+.home-page #title-block-header {
+  display: none;
+}
+
+/* Home page: photo, links and education on the left; name and research on the right */
+.home {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 2rem 3rem;
+  align-items: start;
+  margin-top: 1rem;
+}
+
+.home-side {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.home-main {
+  min-width: 0;
+}
+
+.home-photo p {
+  margin: 0;
+}
+
+.home-photo img {
+  display: block;
+  width: 100%;
+  max-width: 280px;
+  border-radius: 6px;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.home-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid #d9d4d5;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  color: #3b3536;
+  text-decoration: none;
+}
+
+.home-links a:hover,
+.home-links a:focus-visible {
+  border-color: #a51c30;
+  color: #a51c30;
+}
+
+.quarto-dark .home-links a {
+  border-color: #3d3536;
+  color: #d9d2d3;
+}
+
+.quarto-dark .home-links a:hover,
+.quarto-dark .home-links a:focus-visible {
+  border-color: #e8798b;
+  color: #e8798b;
+}
+
+.home-name {
+  font-size: 2.1rem;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.home-edu h3 {
+  margin-top: 0.5rem;
+}
+
+.home-edu ul {
+  padding-left: 1.2rem;
+}
+
+/* Phones: one column in reading order */
+@media (max-width: 767.98px) {
+  .home {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+  .home-side,
+  .home-main {
+    display: contents;
+  }
+  .home-photo    { order: 1; }
+  .home-name     { order: 2; font-size: 2rem; margin: 0; }
+  .home-links    { order: 3; }
+  .home-intro    { order: 4; }
+  .home-edu      { order: 5; }
+  .home-research { order: 6; }
+}
+
+@media (max-width: 575.98px) {
+  .navbar .navbar-title {
+    font-size: 1.3rem;
+  }
+}
