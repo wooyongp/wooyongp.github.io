@@ -62,7 +62,7 @@ highlighting how the interpretation of the DID estimand depends on assumptions a
 
 ### Peer-reviewed Publications
 
-* Evaluating the Impact of South Korea's SME Support Policies Using the Economic Shock of Covid-19 with [Seunghoon Lee](https://sites.google.com/view/seunghoon/home). Published in **Global Economic Review**, Feb. 2026, pp. 1-22. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/1226508X.2026.2624836). [[Working Draft]](https://drive.google.com/file/d/1MhaOfdwhEJVDy_jLx78lyeQLySR1LVoV/view?usp=sharing)
+* Evaluating the Impact of South Korea's SME Support Policies Using the Economic Shock of Covid-19 with [Seunghoon Lee](https://sites.google.com/view/seunghoon/home). Published in **Global Economic Review**, 2026. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/1226508X.2026.2624836). [[Working Draft]](https://drive.google.com/file/d/1MhaOfdwhEJVDy_jLx78lyeQLySR1LVoV/view?usp=sharing)
 <details>
   <summary>Abstract</summary>
 <p align="justify">This study evaluates the impact of South Korea’s small and medium enterprise
