@@ -112,6 +112,90 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 1.2rem;
 }
 
+/* Research list: one block per paper (title, meta line, link chips, collapsible abstract) */
+.paper {
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+  border-left: 2px solid #d9d4d5;
+}
+
+.paper:last-child {
+  margin-bottom: 0;
+}
+
+.paper p {
+  margin: 0 0 0.3rem;
+}
+
+.paper > p:first-child {
+  font-size: 1.1rem;
+  line-height: 1.35;
+}
+
+.paper-meta {
+  color: #6b6465;
+  font-size: 0.95rem;
+}
+
+.paper-links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.15rem 0;
+}
+
+.paper-links a {
+  padding: 0.1rem 0.5rem;
+  border: 1px solid #d9d4d5;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  color: #3b3536;
+  text-decoration: none;
+}
+
+.paper-links a:hover,
+.paper-links a:focus-visible {
+  border-color: #a51c30;
+  color: #a51c30;
+}
+
+.paper summary {
+  width: fit-content;
+  cursor: pointer;
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #a51c30;
+}
+
+.paper details p {
+  margin-top: 0.5rem;
+  text-align: justify;
+}
+
+.quarto-dark .paper {
+  border-left-color: #3d3536;
+}
+
+.quarto-dark .paper-meta {
+  color: #a89fa0;
+}
+
+.quarto-dark .paper-links a {
+  border-color: #3d3536;
+  color: #d9d2d3;
+}
+
+.quarto-dark .paper-links a:hover,
+.quarto-dark .paper-links a:focus-visible {
+  border-color: #e8798b;
+  color: #e8798b;
+}
+
+.quarto-dark .paper summary {
+  color: #e8798b;
+}
+
 /* Phones: one column in reading order */
 @media (max-width: 767.98px) {
   .home {
