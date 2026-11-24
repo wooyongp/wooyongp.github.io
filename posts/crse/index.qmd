@@ -1,7 +1,7 @@
 ---
 title: "Cluster Robust Standard Errors"
 description: "An introductory documetation on Standard Error Clustering"
-# date: "2025-03-01"
+date: "2025-03-01"
 toc: false
 categories:
   - Econometrics

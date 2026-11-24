@@ -1,0 +1,15 @@
+---
+title: "Why AUTOC Needs a Held-Out Sample"
+description: "Why out-of-bag predictions from a causal forest are not enough for valid AUTOC inference"
+date: "2026-11-24"
+toc: false
+categories:
+  - Causal Inference
+  - Machine Learning
+---
+
+- These slides explain why evaluating a causal forest's treatment-effect ranking with the area under the targeting operator characteristic curve (AUTOC) requires a held-out sample. They illustrate the dependence that remains with out-of-bag predictions and include a simulation comparing same-sample and held-out evaluation.
+
+---
+
+- [Slides (PDF)](../../ref/Why%20AUTOC%20Needs%20a%20Held-Out%20Sample.pdf)

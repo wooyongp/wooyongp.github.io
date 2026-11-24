@@ -2,20 +2,20 @@
   {
     "listing": "/posts/index.html",
     "items": [
-      "/posts/crse/index.html",
-      "/posts/psid/index.html",
-      "/posts/paper-reading-claude/index.html",
-      "/posts/aem-jsc/index.html",
-      "/posts/coxph/index.html",
-      "/posts/git-intro/index.html",
-      "/posts/cnef/index.html",
-      "/posts/klips/index.html",
+      "/posts/autoc-held-out/index.html",
       "/posts/calibration-plots/index.html",
       "/posts/covariates-for-experiments/index.html",
       "/posts/matrix-completion/index.html",
       "/posts/causal-tree/index.html",
       "/posts/vscode-guide/index.html",
-      "/posts/mc-bayes/index.html"
+      "/posts/mc-bayes/index.html",
+      "/posts/crse/index.html",
+      "/posts/psid/index.html",
+      "/posts/aem-jsc/index.html",
+      "/posts/coxph/index.html",
+      "/posts/git-intro/index.html",
+      "/posts/cnef/index.html",
+      "/posts/klips/index.html"
     ]
   }
 ]

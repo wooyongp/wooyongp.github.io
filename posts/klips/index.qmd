@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Korean Labor Institute Panel Study(KLIPS)"
 description: "A summary slide on KLIPS(in Korean)"
-# date: "2025-03-01"
+date: "2025-03-01"
 toc: false
 categories:
   - Data
